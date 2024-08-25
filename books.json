@@ -86,7 +86,7 @@
             "three": 316,
             "four": 1,
             "five": 4470,
-            "recent": 1659
+            "recent": 1658
         },
         "newRating": 890,
         "newRatingCount": 4619,
@@ -95,7 +95,7 @@
             "good": 4214,
             "fair": 284,
             "poor": 121,
-            "recent": 1614,
+            "recent": 1613,
             "deepV": 2056,
             "myRating": "",
             "title": "好评如潮"
@@ -376,7 +376,7 @@
                 "skuId": ""
             },
             "centPrice": 5980,
-            "readingCount": 1520,
+            "readingCount": 1508,
             "copyrightChapterUids": [
                 2
             ],
@@ -432,7 +432,7 @@
                 "readTime": 1473
             }
         ],
-        "readingCount": 1520,
+        "readingCount": 1508,
         "阅读进度": 0.71,
         "阅读状态": "在读",
         "阅读时长": 12654,
@@ -538,24 +538,24 @@
         "showLectureButton": 1,
         "wxtts": 1,
         "star": 83,
-        "ratingCount": 21781,
+        "ratingCount": 21783,
         "ratingDetail": {
             "one": 391,
             "two": 389,
             "three": 2156,
             "four": 4190,
-            "five": 12660,
-            "recent": 267
+            "five": 12662,
+            "recent": 269
         },
         "newRating": 734,
-        "newRatingCount": 18331,
-        "deepVRating": 576,
+        "newRatingCount": 18333,
+        "deepVRating": 578,
         "newRatingDetail": {
-            "good": 13422,
+            "good": 13424,
             "fair": 4561,
             "poor": 348,
-            "recent": 245,
-            "deepV": 172,
+            "recent": 247,
+            "deepV": 173,
             "myRating": "",
             "title": "值得一读"
         },
@@ -811,7 +811,7 @@
                 "skuId": "12075497"
             },
             "centPrice": 3980,
-            "readingCount": 4562,
+            "readingCount": 4547,
             "copyrightChapterUids": [
                 99
             ],
@@ -854,7 +854,7 @@
                 "readTime": 2544
             }
         ],
-        "readingCount": 4562,
+        "readingCount": 4547,
         "阅读进度": 0.57,
         "阅读状态": "在读",
         "阅读时长": 4224,
@@ -1187,7 +1187,7 @@
                 "skuId": "12529743"
             },
             "centPrice": 4900,
-            "readingCount": 106,
+            "readingCount": 105,
             "copyrightChapterUids": [
                 2
             ],
@@ -1198,7 +1198,7 @@
             "selfProduceIncentive": false,
             "webBookControl": 0
         },
-        "readingCount": 106,
+        "readingCount": 105,
         "阅读进度": 0.0,
         "阅读状态": "想读",
         "阅读时长": 2,
@@ -1645,20 +1645,20 @@
         "isChapterPaid": 0,
         "showLectureButton": 1,
         "wxtts": 1,
-        "ratingCount": 30120,
+        "ratingCount": 30121,
         "ratingDetail": {
             "one": 488,
             "two": 0,
             "three": 957,
             "four": 1,
-            "five": 28670,
+            "five": 28671,
             "recent": 1245
         },
         "newRating": 940,
-        "newRatingCount": 28638,
+        "newRatingCount": 28639,
         "deepVRating": 947,
         "newRatingDetail": {
-            "good": 27297,
+            "good": 27298,
             "fair": 891,
             "poor": 450,
             "recent": 1205,
@@ -1937,7 +1937,7 @@
                 "skuId": ""
             },
             "centPrice": 5980,
-            "readingCount": 1702,
+            "readingCount": 1707,
             "copyrightChapterUids": [
                 12
             ],
@@ -1984,7 +1984,7 @@
                 "readTime": 163
             }
         ],
-        "readingCount": 1702,
+        "readingCount": 1707,
         "阅读进度": 1.0,
         "阅读状态": "已读",
         "阅读时长": 14182,
@@ -2090,7 +2090,7 @@
             "three": 451,
             "four": 1,
             "five": 855,
-            "recent": 760
+            "recent": 758
         },
         "newRating": 748,
         "newRatingCount": 1260,
@@ -2099,7 +2099,7 @@
             "good": 761,
             "fair": 411,
             "poor": 88,
-            "recent": 696,
+            "recent": 694,
             "deepV": 353,
             "myRating": "",
             "title": "值得一读"
@@ -2348,7 +2348,7 @@
                 "skuId": ""
             },
             "centPrice": 2490,
-            "readingCount": 2695,
+            "readingCount": 2710,
             "copyrightChapterUids": [
                 2
             ],
@@ -2384,7 +2384,7 @@
                 "readTime": 1092
             }
         ],
-        "readingCount": 2695,
+        "readingCount": 2710,
         "阅读进度": 0.24,
         "阅读状态": "在读",
         "阅读时长": 2751,
@@ -3076,7 +3076,7 @@
                 "skuId": "12799689"
             },
             "centPrice": 3600,
-            "readingCount": 742,
+            "readingCount": 746,
             "copyrightChapterUids": [
                 31
             ],
@@ -3111,7 +3111,7 @@
                 "readTime": 3887
             }
         ],
-        "readingCount": 742,
+        "readingCount": 746,
         "阅读进度": 0.19,
         "阅读状态": "在读",
         "阅读时长": 7703,
