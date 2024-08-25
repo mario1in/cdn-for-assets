@@ -3,7 +3,7 @@
         "bookId": "3300103147",
         "title": "草民",
         "author": "蔡崇达",
-        "cover": "https://cdn.weread.qq.com/weread/cover/64/cpplatform_wrilau5wukgvbfsmzafchn/s_cpplatform_wrilau5wukgvbfsmzafchn1719297962.jpg",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/mario1in/cdn-for-assets@main/public/png/c13cbd7c-3b76-47cb-a7ee-3505f37fbe7e.jpg",
         "version": 742026492,
         "format": "epub",
         "type": 0,
@@ -86,7 +86,7 @@
             "three": 316,
             "four": 1,
             "five": 4470,
-            "recent": 1661
+            "recent": 1660
         },
         "newRating": 890,
         "newRatingCount": 4619,
@@ -95,7 +95,7 @@
             "good": 4214,
             "fair": 284,
             "poor": 121,
-            "recent": 1616,
+            "recent": 1615,
             "deepV": 2056,
             "myRating": "",
             "title": "好评如潮"
@@ -376,7 +376,7 @@
                 "skuId": ""
             },
             "centPrice": 5980,
-            "readingCount": 1527,
+            "readingCount": 1526,
             "copyrightChapterUids": [
                 2
             ],
@@ -432,7 +432,7 @@
                 "readTime": 1473
             }
         ],
-        "readingCount": 1527,
+        "readingCount": 1526,
         "阅读进度": 0.71,
         "阅读状态": "在读",
         "阅读时长": 12654,
@@ -454,7 +454,7 @@
         "bookId": "858599",
         "title": "悟空传（典藏纪念版）",
         "author": "今何在",
-        "cover": "https://cdn.weread.qq.com/weread/cover/82/YueWen_858599/s_YueWen_858599.jpg",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/mario1in/cdn-for-assets@main/public/png/29aab453c2-b93a-4075-bf0a-9b08bab07386.jpg",
         "version": 207590181,
         "format": "epub",
         "type": 0,
@@ -542,17 +542,17 @@
         "ratingDetail": {
             "one": 391,
             "two": 389,
-            "three": 2155,
+            "three": 2156,
             "four": 4190,
-            "five": 12661,
+            "five": 12660,
             "recent": 267
         },
         "newRating": 734,
         "newRatingCount": 18331,
-        "deepVRating": 581,
+        "deepVRating": 576,
         "newRatingDetail": {
-            "good": 13423,
-            "fair": 4560,
+            "good": 13422,
+            "fair": 4561,
             "poor": 348,
             "recent": 245,
             "deepV": 172,
@@ -811,7 +811,7 @@
                 "skuId": "12075497"
             },
             "centPrice": 3980,
-            "readingCount": 4592,
+            "readingCount": 4579,
             "copyrightChapterUids": [
                 99
             ],
@@ -854,7 +854,7 @@
                 "readTime": 2544
             }
         ],
-        "readingCount": 4592,
+        "readingCount": 4579,
         "阅读进度": 0.57,
         "阅读状态": "在读",
         "阅读时长": 4224,
@@ -877,7 +877,7 @@
         "title": "成为我自己：欧文·亚隆回忆录",
         "author": "[美]欧文·D.亚隆",
         "translator": "杨立华,郑世彦",
-        "cover": "https://cdn.weread.qq.com/weread/cover/9/YueWen_25614391/s_YueWen_25614391.jpg",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/mario1in/cdn-for-assets@main/public/png/17385ddcb6-4a8c-4fd9-8164-de99b3ecfca4.jpg",
         "version": 861835116,
         "format": "epub",
         "type": 0,
@@ -1187,7 +1187,7 @@
                 "skuId": "12529743"
             },
             "centPrice": 4900,
-            "readingCount": 105,
+            "readingCount": 106,
             "copyrightChapterUids": [
                 2
             ],
@@ -1198,7 +1198,7 @@
             "selfProduceIncentive": false,
             "webBookControl": 0
         },
-        "readingCount": 105,
+        "readingCount": 106,
         "阅读进度": 0.0,
         "阅读状态": "想读",
         "阅读时长": 2,
@@ -1221,7 +1221,7 @@
         "title": "领导梯队：全面打造领导力驱动型公司",
         "author": "查兰",
         "translator": "徐中，林嵩，雷静",
-        "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/922/573922/s_573922.jpg",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/mario1in/cdn-for-assets@main/public/png/165417294a-695c-4b71-bc83-50e007ab2d30.jpg",
         "version": 1150758902,
         "format": "epub",
         "type": 0,
@@ -1536,7 +1536,7 @@
                 "skuId": "10708646"
             },
             "centPrice": 2000,
-            "readingCount": 80,
+            "readingCount": 83,
             "copyrightChapterUids": [
                 26
             ],
@@ -1547,7 +1547,7 @@
             "selfProduceIncentive": false,
             "webBookControl": 0
         },
-        "readingCount": 80,
+        "readingCount": 83,
         "阅读进度": 0.0,
         "阅读状态": "想读",
         "阅读时长": 0,
@@ -1569,7 +1569,7 @@
         "bookId": "3300030955",
         "title": "命运",
         "author": "蔡崇达",
-        "cover": "https://cdn.weread.qq.com/weread/cover/46/cpPlatform_tEnsXcTvcuE69ZuvviMknD/s_cpPlatform_tEnsXcTvcuE69ZuvviMknD.jpg",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/mario1in/cdn-for-assets@main/public/png/11e6f826d4-5be8-4753-a129-6f648c048ca3.jpg",
         "version": 1835708567,
         "format": "epub",
         "type": 0,
@@ -1645,20 +1645,20 @@
         "isChapterPaid": 0,
         "showLectureButton": 1,
         "wxtts": 1,
-        "ratingCount": 30120,
+        "ratingCount": 30119,
         "ratingDetail": {
             "one": 488,
             "two": 0,
             "three": 957,
             "four": 1,
-            "five": 28670,
+            "five": 28669,
             "recent": 1245
         },
         "newRating": 940,
-        "newRatingCount": 28638,
+        "newRatingCount": 28637,
         "deepVRating": 947,
         "newRatingDetail": {
-            "good": 27297,
+            "good": 27296,
             "fair": 891,
             "poor": 450,
             "recent": 1205,
@@ -2007,7 +2007,7 @@
         "bookId": "3300086356",
         "title": "躲在蚊子后面的大象",
         "author": "[德]恩斯特弗里德·哈尼希   [德]爱娃·温德勒",
-        "cover": "https://cdn.weread.qq.com/weread/cover/2/cpplatform_dcnmsj225vbjrgvdrd9rqp/s_cpplatform_dcnmsj225vbjrgvdrd9rqp1707120440.jpg",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/mario1in/cdn-for-assets@main/public/png/f25dbd00-f5c3-4bae-83e3-df8b93594f82.jpg",
         "version": 1032603185,
         "format": "epub",
         "type": 0,
@@ -2348,7 +2348,7 @@
                 "skuId": ""
             },
             "centPrice": 2490,
-            "readingCount": 2702,
+            "readingCount": 2707,
             "copyrightChapterUids": [
                 2
             ],
@@ -2384,7 +2384,7 @@
                 "readTime": 1092
             }
         ],
-        "readingCount": 2702,
+        "readingCount": 2707,
         "阅读进度": 0.24,
         "阅读状态": "在读",
         "阅读时长": 2751,
@@ -2407,7 +2407,7 @@
         "title": "不可打扰",
         "author": "尼尔·埃亚尔等",
         "translator": "肖志清",
-        "cover": "https://cdn.weread.qq.com/weread/cover/74/YueWen_45064997/s_YueWen_45064997.jpg",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/mario1in/cdn-for-assets@main/public/png/120f5e1642-71c0-4e8b-9219-8f0b15f3949d.jpg",
         "version": 238700512,
         "format": "epub",
         "type": 0,
@@ -2740,7 +2740,7 @@
         "title": "我们为什么要睡觉？",
         "author": "马修·沃克",
         "translator": "田盈春",
-        "cover": "https://cdn.weread.qq.com/weread/cover/98/YueWen_43697528/s_YueWen_43697528.jpg",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/mario1in/cdn-for-assets@main/public/png/157efed796-bf34-49b9-b516-5997155f0097.jpg",
         "version": 1475565887,
         "format": "epub",
         "type": 0,
