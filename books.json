@@ -3,7 +3,7 @@
         "bookId": "858599",
         "title": "悟空传（典藏纪念版）",
         "author": "今何在",
-        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/29aab453c2-b93a-4075-bf0a-9b08bab07386.jpg",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/858599_29aab453c2-b93a-4075-bf0a-9b08bab07386.jpg",
         "version": 207590181,
         "format": "epub",
         "type": 0,
@@ -87,23 +87,23 @@
         "showLectureButton": 1,
         "wxtts": 1,
         "star": 83,
-        "ratingCount": 21850,
+        "ratingCount": 21851,
         "ratingDetail": {
             "one": 397,
             "two": 389,
             "three": 2171,
             "four": 4190,
-            "five": 12708,
-            "recent": 331
+            "five": 12709,
+            "recent": 332
         },
-        "newRating": 733,
-        "newRatingCount": 18393,
+        "newRating": 734,
+        "newRatingCount": 18394,
         "deepVRating": 586,
         "newRatingDetail": {
-            "good": 13461,
+            "good": 13462,
             "fair": 4578,
             "poor": 354,
-            "recent": 307,
+            "recent": 308,
             "deepV": 191,
             "myRating": "",
             "title": "值得一读"
@@ -275,7 +275,7 @@
         "readingReviewId": "R_19208111_858599",
         "canCancelReadstatus": 0,
         "markedStatus": 2,
-        "readingTime": 4465,
+        "readingTime": 4749,
         "totalReadDay": 7,
         "recordReadingTime": 0,
         "continueReadDays": 3,
@@ -284,7 +284,7 @@
         "showSummary": 1,
         "showDetail": 1,
         "readDetail": {
-            "totalReadingTime": 4465,
+            "totalReadingTime": 4749,
             "totalReadDay": 7,
             "continueReadDays": 3,
             "continueBeginDate": 1724169600,
@@ -292,7 +292,7 @@
             "beginReadingDate": 1532019391,
             "lastReadingDate": 1724688000,
             "longestReadingDate": 1724342400,
-            "avgReadingTime": 637,
+            "avgReadingTime": 678,
             "longestReadingTime": 2544,
             "data": [
                 {
@@ -321,7 +321,7 @@
                 },
                 {
                     "readDate": 1724688000,
-                    "readTime": 241
+                    "readTime": 525
                 }
             ]
         },
@@ -349,7 +349,7 @@
                 "skuId": "12075497"
             },
             "centPrice": 3980,
-            "readingCount": 4181,
+            "readingCount": 4154,
             "copyrightChapterUids": [
                 99
             ],
@@ -360,11 +360,11 @@
             "selfProduceIncentive": false,
             "webBookControl": 0
         },
-        "totalReadingTime": 4465,
+        "totalReadingTime": 4749,
         "beginReadingDate": 1532019391,
         "lastReadingDate": 1724688000,
         "longestReadingDate": 1724342400,
-        "avgReadingTime": 637,
+        "avgReadingTime": 678,
         "longestReadingTime": 2544,
         "data": [
             {
@@ -393,19 +393,19 @@
             },
             {
                 "readDate": 1724688000,
-                "readTime": 241
+                "readTime": 525
             }
         ],
-        "readingCount": 4181,
+        "readingCount": 4154,
         "阅读进度": 0.57,
         "阅读状态": "在读",
-        "阅读时长": 4465,
+        "阅读时长": 4749,
         "阅读天数": 7,
-        "评分": 733,
+        "评分": 734,
         "时间": 1724688000,
         "开始阅读时间": 1532019391,
         "最后阅读时间": 1724688000,
-        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/29aab453c2-b93a-4075-bf0a-9b08bab07386.jpg",
+        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/858599_29aab453c2-b93a-4075-bf0a-9b08bab07386.jpg",
         "书名": "悟空传（典藏纪念版）",
         "BookId": "858599",
         "ISBN": "9787559602398",
@@ -418,7 +418,7 @@
         "bookId": "856025",
         "title": "这些人，那些事",
         "author": "吴念真",
-        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/1540934c3f-8c9d-4308-a492-05371495bde4.jpg",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/856025_1540934c3f-8c9d-4308-a492-05371495bde4.jpg",
         "version": 396299426,
         "format": "epub",
         "type": 0,
@@ -792,7 +792,7 @@
                 "skuId": "12640287"
             },
             "centPrice": 2799,
-            "readingCount": 36,
+            "readingCount": 38,
             "copyrightChapterUids": [
                 48
             ],
@@ -879,7 +879,7 @@
                 "readTime": 3939
             }
         ],
-        "readingCount": 36,
+        "readingCount": 38,
         "阅读进度": 0.78,
         "阅读状态": "在读",
         "阅读时长": 10189,
@@ -888,7 +888,7 @@
         "时间": 1724688000,
         "开始阅读时间": 1706876169,
         "最后阅读时间": 1724688000,
-        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/1540934c3f-8c9d-4308-a492-05371495bde4.jpg",
+        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/856025_1540934c3f-8c9d-4308-a492-05371495bde4.jpg",
         "书名": "这些人，那些事",
         "BookId": "856025",
         "ISBN": "9787544717731",
@@ -902,7 +902,7 @@
         "title": "成为我自己：欧文·亚隆回忆录",
         "author": "[美]欧文·D.亚隆",
         "translator": "杨立华,郑世彦",
-        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/17385ddcb6-4a8c-4fd9-8164-de99b3ecfca4.jpg",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/25614391_17385ddcb6-4a8c-4fd9-8164-de99b3ecfca4.jpg",
         "version": 861835116,
         "format": "epub",
         "type": 0,
@@ -1212,7 +1212,7 @@
                 "skuId": "12529743"
             },
             "centPrice": 4900,
-            "readingCount": 105,
+            "readingCount": 103,
             "copyrightChapterUids": [
                 2
             ],
@@ -1223,7 +1223,7 @@
             "selfProduceIncentive": false,
             "webBookControl": 0
         },
-        "readingCount": 105,
+        "readingCount": 103,
         "阅读进度": 0.0,
         "阅读状态": "想读",
         "阅读时长": 22,
@@ -1232,7 +1232,7 @@
         "时间": 1724314624,
         "开始阅读时间": null,
         "最后阅读时间": null,
-        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/17385ddcb6-4a8c-4fd9-8164-de99b3ecfca4.jpg",
+        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/25614391_17385ddcb6-4a8c-4fd9-8164-de99b3ecfca4.jpg",
         "书名": "成为我自己：欧文·亚隆回忆录",
         "BookId": "25614391",
         "ISBN": "9787111625315",
@@ -1245,7 +1245,7 @@
         "bookId": "3300103147",
         "title": "草民",
         "author": "蔡崇达",
-        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/c13cbd7c-3b76-47cb-a7ee-3505f37fbe7e.jpg",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/3300103147_c13cbd7c-3b76-47cb-a7ee-3505f37fbe7e.jpg",
         "version": 742026492,
         "format": "epub",
         "type": 0,
@@ -1321,24 +1321,24 @@
         "isChapterPaid": 0,
         "showLectureButton": 1,
         "wxtts": 1,
-        "ratingCount": 4990,
+        "ratingCount": 4992,
         "ratingDetail": {
             "one": 148,
             "two": 0,
             "three": 321,
             "four": 1,
-            "five": 4520,
+            "five": 4522,
             "recent": 1594
         },
         "newRating": 890,
-        "newRatingCount": 4673,
+        "newRatingCount": 4675,
         "deepVRating": 915,
         "newRatingDetail": {
-            "good": 4264,
+            "good": 4266,
             "fair": 289,
             "poor": 120,
             "recent": 1552,
-            "deepV": 2081,
+            "deepV": 2082,
             "myRating": "good",
             "title": "好评如潮"
         },
@@ -1623,7 +1623,7 @@
                 "skuId": ""
             },
             "centPrice": 5980,
-            "readingCount": 1735,
+            "readingCount": 1747,
             "copyrightChapterUids": [
                 2
             ],
@@ -1683,7 +1683,7 @@
                 "readTime": 374
             }
         ],
-        "readingCount": 1735,
+        "readingCount": 1747,
         "阅读进度": 1.0,
         "阅读状态": "已读",
         "阅读时长": 15983,
@@ -1693,7 +1693,7 @@
         "时间": 1724601621,
         "开始阅读时间": 1721718472,
         "最后阅读时间": 1724601600,
-        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/c13cbd7c-3b76-47cb-a7ee-3505f37fbe7e.jpg",
+        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/3300103147_c13cbd7c-3b76-47cb-a7ee-3505f37fbe7e.jpg",
         "书名": "草民",
         "BookId": "3300103147",
         "ISBN": "9787546237381",
@@ -1707,7 +1707,7 @@
         "title": "不可打扰",
         "author": "尼尔·埃亚尔等",
         "translator": "肖志清",
-        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/120f5e1642-71c0-4e8b-9219-8f0b15f3949d.jpg",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/45064997_120f5e1642-71c0-4e8b-9219-8f0b15f3949d.jpg",
         "version": 238700512,
         "format": "epub",
         "type": 0,
@@ -2007,7 +2007,7 @@
                 "skuId": ""
             },
             "centPrice": 4830,
-            "readingCount": 5,
+            "readingCount": 7,
             "copyrightChapterUids": [
                 2
             ],
@@ -2018,7 +2018,7 @@
             "selfProduceIncentive": false,
             "webBookControl": 0
         },
-        "readingCount": 5,
+        "readingCount": 7,
         "阅读进度": 0.0,
         "阅读状态": "想读",
         "阅读时长": 34,
@@ -2027,7 +2027,7 @@
         "时间": 1724602997,
         "开始阅读时间": null,
         "最后阅读时间": null,
-        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/120f5e1642-71c0-4e8b-9219-8f0b15f3949d.jpg",
+        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/45064997_120f5e1642-71c0-4e8b-9219-8f0b15f3949d.jpg",
         "书名": "不可打扰",
         "BookId": "45064997",
         "ISBN": "9787521736465",
@@ -2041,7 +2041,7 @@
         "title": "领导梯队：全面打造领导力驱动型公司",
         "author": "查兰",
         "translator": "徐中，林嵩，雷静",
-        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/165417294a-695c-4b71-bc83-50e007ab2d30.jpg",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/573922_165417294a-695c-4b71-bc83-50e007ab2d30.jpg",
         "version": 1150758902,
         "format": "epub",
         "type": 0,
@@ -2356,7 +2356,7 @@
                 "skuId": "10708646"
             },
             "centPrice": 2000,
-            "readingCount": 96,
+            "readingCount": 94,
             "copyrightChapterUids": [
                 26
             ],
@@ -2367,7 +2367,7 @@
             "selfProduceIncentive": false,
             "webBookControl": 0
         },
-        "readingCount": 96,
+        "readingCount": 94,
         "阅读进度": 0.0,
         "阅读状态": "想读",
         "阅读时长": 0,
@@ -2376,7 +2376,7 @@
         "时间": null,
         "开始阅读时间": null,
         "最后阅读时间": null,
-        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/165417294a-695c-4b71-bc83-50e007ab2d30.jpg",
+        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/573922_165417294a-695c-4b71-bc83-50e007ab2d30.jpg",
         "书名": "领导梯队：全面打造领导力驱动型公司",
         "BookId": "573922",
         "ISBN": "9787111349341",
@@ -2389,7 +2389,7 @@
         "bookId": "3300030955",
         "title": "命运",
         "author": "蔡崇达",
-        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/11e6f826d4-5be8-4753-a129-6f648c048ca3.jpg",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/3300030955_11e6f826d4-5be8-4753-a129-6f648c048ca3.jpg",
         "version": 1835708567,
         "format": "epub",
         "type": 0,
@@ -2472,7 +2472,7 @@
             "three": 957,
             "four": 1,
             "five": 28735,
-            "recent": 1244
+            "recent": 1243
         },
         "newRating": 940,
         "newRatingCount": 28697,
@@ -2481,7 +2481,7 @@
             "good": 27356,
             "fair": 890,
             "poor": 451,
-            "recent": 1203,
+            "recent": 1202,
             "deepV": 3755,
             "myRating": "",
             "title": "神作"
@@ -2757,7 +2757,7 @@
                 "skuId": ""
             },
             "centPrice": 5980,
-            "readingCount": 1873,
+            "readingCount": 1872,
             "copyrightChapterUids": [
                 12
             ],
@@ -2804,7 +2804,7 @@
                 "readTime": 163
             }
         ],
-        "readingCount": 1873,
+        "readingCount": 1872,
         "阅读进度": 1.0,
         "阅读状态": "已读",
         "阅读时长": 14182,
@@ -2814,7 +2814,7 @@
         "时间": 1666622465,
         "开始阅读时间": 1666154344,
         "最后阅读时间": 1700323200,
-        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/11e6f826d4-5be8-4753-a129-6f648c048ca3.jpg",
+        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/3300030955_11e6f826d4-5be8-4753-a129-6f648c048ca3.jpg",
         "书名": "命运",
         "BookId": "3300030955",
         "ISBN": "9787533969608",
@@ -2827,7 +2827,7 @@
         "bookId": "3300086356",
         "title": "躲在蚊子后面的大象",
         "author": "[德]恩斯特弗里德·哈尼希   [德]爱娃·温德勒",
-        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/f25dbd00-f5c3-4bae-83e3-df8b93594f82.jpg",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/3300086356_f25dbd00-f5c3-4bae-83e3-df8b93594f82.jpg",
         "version": 1032603185,
         "format": "epub",
         "type": 0,
@@ -2903,24 +2903,24 @@
         "isChapterPaid": 0,
         "showLectureButton": 1,
         "wxtts": 1,
-        "ratingCount": 1455,
+        "ratingCount": 1456,
         "ratingDetail": {
             "one": 129,
             "two": 0,
-            "three": 459,
+            "three": 460,
             "four": 1,
             "five": 866,
-            "recent": 761
+            "recent": 762
         },
         "newRating": 751,
-        "newRatingCount": 1278,
-        "deepVRating": 547,
+        "newRatingCount": 1279,
+        "deepVRating": 546,
         "newRatingDetail": {
             "good": 771,
-            "fair": 418,
+            "fair": 419,
             "poor": 89,
-            "recent": 696,
-            "deepV": 358,
+            "recent": 697,
+            "deepV": 359,
             "myRating": "",
             "title": "值得一读"
         },
@@ -3168,7 +3168,7 @@
                 "skuId": ""
             },
             "centPrice": 2490,
-            "readingCount": 3274,
+            "readingCount": 3275,
             "copyrightChapterUids": [
                 2
             ],
@@ -3204,7 +3204,7 @@
                 "readTime": 1092
             }
         ],
-        "readingCount": 3274,
+        "readingCount": 3275,
         "阅读进度": 0.24,
         "阅读状态": "在读",
         "阅读时长": 2751,
@@ -3213,7 +3213,7 @@
         "时间": 1721577600,
         "开始阅读时间": 1721402215,
         "最后阅读时间": 1721577600,
-        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/f25dbd00-f5c3-4bae-83e3-df8b93594f82.jpg",
+        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/3300086356_f25dbd00-f5c3-4bae-83e3-df8b93594f82.jpg",
         "书名": "躲在蚊子后面的大象",
         "BookId": "3300086356",
         "ISBN": "9787516837375",
