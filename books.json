@@ -1,456 +1,5 @@
 [
     {
-        "bookId": "3300103147",
-        "title": "草民",
-        "author": "蔡崇达",
-        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/c13cbd7c-3b76-47cb-a7ee-3505f37fbe7e.jpg",
-        "version": 742026492,
-        "format": "epub",
-        "type": 0,
-        "price": 59.8,
-        "originalPrice": 0,
-        "soldout": 0,
-        "bookStatus": 1,
-        "payType": 1048577,
-        "intro": "《草民》是蔡崇达继《皮囊》《命运》之后全新的中短篇小说集，故乡三部曲收官力作。不同于刻骨铭心的散文集《皮囊》，催人泪下的长篇小说《命运》；《草民》以贴近大地的风格，回望闽南东石镇这一充满温情与历史的故土，聚焦如野草般坚韧的人们——“我们为什么生生不息，我们凭什么生生不息。”\n全书讲述了7个神性与人性交织的玄妙故事。以人物群像的手法，展开老中青三代乡亲的感人故事，共同编织成一支生生不息的东石镇生命之歌。每个人能从《草民》中看见自己或身边人的影子——失意的中年男子、迷茫的年轻人、奋力托举后代的母亲们……他们身上的坚韧和生命力，正是这个迷茫而充满无常的当下，我们所需要的昂扬能量。每一种挣扎都是伟大的，每一个拼命挣扎的人都值得被看到。即使生如草芥，也当有名有姓。谁都是草民，谁也是自己的英雄。\n读完《草民》，有读者说：这本书好像告诉我——我知道你的来处，我熟知你的底色，我理解你的感受。如果你也时常想念家乡、却又飘零在外，推荐你看《草民》——每一个离散的无根之人都能在这本书中找到心的栖息地。一本书欢迎你回家。",
-        "centPrice": 5980,
-        "finished": 1,
-        "maxFreeChapter": 7,
-        "maxFreeInfo": {
-            "maxFreeChapterIdx": 7,
-            "maxFreeChapterUid": 15,
-            "maxFreeChapterRatio": 74
-        },
-        "free": 0,
-        "mcardDiscount": 0,
-        "ispub": 1,
-        "extra_type": 5,
-        "cpid": -3319053,
-        "publishTime": "2024-05-01 00:00:00",
-        "category": "精品小说-社会小说",
-        "categories": [
-            {
-                "categoryId": 100000,
-                "subCategoryId": 100001,
-                "categoryType": 0,
-                "title": "精品小说-社会小说"
-            }
-        ],
-        "hasLecture": 0,
-        "lastChapterIdx": 14,
-        "paperBook": {
-            "skuId": ""
-        },
-        "copyrightChapterUids": [
-            2
-        ],
-        "hasKeyPoint": false,
-        "blockSaveImg": 0,
-        "language": "zh-wr",
-        "hideUpdateTime": false,
-        "isEPUBComics": 0,
-        "webBookControl": 0,
-        "selfProduceIncentive": false,
-        "payingStatus": 2,
-        "chapterSize": 14,
-        "updateTime": 1724405984,
-        "onTime": 1719504000,
-        "lastChapterCreateTime": 1724405085,
-        "unitPrice": 0,
-        "marketType": 0,
-        "isbn": "9787546237381",
-        "publisher": "广州出版社",
-        "totalWords": 141450,
-        "bookSize": 504991,
-        "shouldHideTTS": 0,
-        "recommended": 0,
-        "lectureRecommended": 0,
-        "follow": 0,
-        "secret": 0,
-        "offline": 0,
-        "lectureOffline": 0,
-        "finishReading": 0,
-        "hideReview": 0,
-        "hideFriendMark": 0,
-        "blacked": 0,
-        "isAutoPay": 0,
-        "availables": 0,
-        "paid": 0,
-        "isChapterPaid": 0,
-        "showLectureButton": 1,
-        "wxtts": 1,
-        "ratingCount": 4936,
-        "ratingDetail": {
-            "one": 149,
-            "two": 0,
-            "three": 316,
-            "four": 1,
-            "five": 4470,
-            "recent": 1658
-        },
-        "newRating": 890,
-        "newRatingCount": 4619,
-        "deepVRating": 915,
-        "newRatingDetail": {
-            "good": 4214,
-            "fair": 284,
-            "poor": 121,
-            "recent": 1613,
-            "deepV": 2056,
-            "myRating": "",
-            "title": "好评如潮"
-        },
-        "ranklist": {
-            "seq": 22,
-            "categoryId": "newbook",
-            "categoryName": "新书·出版",
-            "storeSubType": 0,
-            "scheme": "weread://ranklist?categoryId=newbook&subtype=0&initialBookId=3300103147&seq=22&newList=1",
-            "ranklistCover": {
-                "tinycode": "https://rescdn.qqmail.com/weread/cover/ranklist.newbook.tinycode.2j6E9UyUae.png",
-                "chart_title": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.chart_title.GWZVW5nl3Z.png",
-                "chart_detail_title": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.chart_detail_title.s2syPpuozE.png",
-                "chart_detail_title_dark": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.chart_detail_title_dark.s8aV61bNWs.png",
-                "chart_share_title": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.chart_share_title.CQsczP1BjY.png",
-                "chart_share_logo": "https://rescdn.qqmail.com/weread/cover/ranklist.newbook.chart_share_logo.LKfLsvXOPl.png",
-                "chart_book_detial_icon": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.chart_book_detial_icon.9mdfI2l2wU.png",
-                "chart_tag": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.chart_tag.yRGcg5vJI2.png",
-                "eink_chart_title": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.eink_chart_title.CvRJLa24MK.png",
-                "chart_title_main": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.chart_title_main.ipXu36pNZV.png",
-                "chart_detail_title_main": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.chart_detail_title_main.fmIjHOplcf.png",
-                "chart_detail_title_dark_main": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.chart_detail_title_dark_main.kWjokA5xNW.png",
-                "chart_background_color_1": "#FF6F3C",
-                "chart_background_color_2": "#FFB341",
-                "chart_title_height": 96,
-                "chart_title_width": 612,
-                "desc": "最近 90 天出版的热门书籍"
-            }
-        },
-        "copyrightInfo": {
-            "id": -3319053,
-            "name": "果麦文化",
-            "userVid": 290625916,
-            "role": 2,
-            "avatar": "https://res.weread.qq.com/wravatar/WV0012-~4eglA1PTB79JTRq~r0Wqa6/0",
-            "cpType": 0
-        },
-        "authorSeg": [
-            {
-                "words": "蔡崇达",
-                "highlight": 1,
-                "authorId": "566694"
-            }
-        ],
-        "coverBoxInfo": {
-            "blurhash": "KDLhFqof9DofayWARjayoN",
-            "colors": [
-                {
-                    "key": "6/4",
-                    "hex": "#8e9965"
-                },
-                {
-                    "key": "4/4",
-                    "hex": "#5a6536"
-                },
-                {
-                    "key": "3/4",
-                    "hex": "#414c23"
-                },
-                {
-                    "key": "3/6",
-                    "hex": "#3e4e07"
-                },
-                {
-                    "key": "3/8",
-                    "hex": "#3a4f00"
-                },
-                {
-                    "key": "2/4",
-                    "hex": "#2b3510"
-                },
-                {
-                    "key": "2/6",
-                    "hex": "#263700"
-                },
-                {
-                    "key": "2/8",
-                    "hex": "#203800"
-                },
-                {
-                    "key": "1/4",
-                    "hex": "#132100"
-                },
-                {
-                    "key": "1/6",
-                    "hex": "#0f2200"
-                },
-                {
-                    "key": "1/8",
-                    "hex": "#0a2300"
-                },
-                {
-                    "key": "6/6",
-                    "hex": "#8b9b4c"
-                },
-                {
-                    "key": "4/6",
-                    "hex": "#57671d"
-                },
-                {
-                    "key": "9/2",
-                    "hex": "#e1e6c4"
-                },
-                {
-                    "key": "4/10",
-                    "hex": "#516900"
-                },
-                {
-                    "key": "5/10",
-                    "hex": "#6b8400"
-                },
-                {
-                    "key": "5/4",
-                    "hex": "#747f4e"
-                },
-                {
-                    "key": "8/4",
-                    "hex": "#c4ce94"
-                },
-                {
-                    "key": "5/8",
-                    "hex": "#6e8211"
-                },
-                {
-                    "key": "6/8",
-                    "hex": "#889d2d"
-                },
-                {
-                    "key": "8/6",
-                    "hex": "#c1d07b"
-                },
-                {
-                    "key": "7/8",
-                    "hex": "#a3b749"
-                },
-                {
-                    "key": "3/12",
-                    "hex": "#315200"
-                },
-                {
-                    "key": "9/12",
-                    "hex": "#d4f125"
-                },
-                {
-                    "key": "1/100",
-                    "hex": "#889d2d"
-                },
-                {
-                    "key": "2/100",
-                    "hex": "#a3b749"
-                },
-                {
-                    "key": "3/100",
-                    "hex": "#ffffff"
-                },
-                {
-                    "key": "4/100",
-                    "hex": "#EFF3E5"
-                },
-                {
-                    "key": "5/100",
-                    "hex": "#EFF3E5"
-                },
-                {
-                    "key": "6/100",
-                    "hex": "#222700"
-                }
-            ],
-            "dominate_color": {
-                "hex": "#b4bc8f",
-                "hsv": [
-                    70.08731632842539,
-                    23.9740670812972,
-                    73.5978083814601
-                ]
-            },
-            "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/147/3300103147/s_3300103147.jpg",
-            "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/147/3300103147/s_3300103147.jpg"
-        },
-        "shortTimeRead": {
-            "active": 0
-        },
-        "AISummary": "",
-        "finishedBookCount": 26,
-        "readingBookCount": 108,
-        "readingBookIndex": 108,
-        "readingBookDate": 1721718472,
-        "readingProgress": 71,
-        "readingReviewId": "R_19208111_3300103147",
-        "canCancelReadstatus": 0,
-        "markedStatus": 2,
-        "readingTime": 12654,
-        "totalReadDay": 9,
-        "recordReadingTime": 0,
-        "deepestNightReadTime": 1724522984,
-        "continueReadDays": 9,
-        "continueBeginDate": 1723824000,
-        "continueEndDate": 1724515200,
-        "showSummary": 1,
-        "showDetail": 1,
-        "readDetail": {
-            "totalReadingTime": 12654,
-            "totalReadDay": 9,
-            "continueReadDays": 9,
-            "continueBeginDate": 1723824000,
-            "continueEndDate": 1724515200,
-            "deepestNightReadDate": 1724522984,
-            "beginReadingDate": 1721718472,
-            "lastReadingDate": 1724515200,
-            "longestReadingDate": 1724256000,
-            "avgReadingTime": 1406,
-            "longestReadingTime": 2843,
-            "data": [
-                {
-                    "readDate": 1723824000,
-                    "readTime": 2129
-                },
-                {
-                    "readDate": 1723910400,
-                    "readTime": 1861
-                },
-                {
-                    "readDate": 1723996800,
-                    "readTime": 990
-                },
-                {
-                    "readDate": 1724083200,
-                    "readTime": 810
-                },
-                {
-                    "readDate": 1724169600,
-                    "readTime": 170
-                },
-                {
-                    "readDate": 1724256000,
-                    "readTime": 2843
-                },
-                {
-                    "readDate": 1724342400,
-                    "readTime": 60
-                },
-                {
-                    "readDate": 1724428800,
-                    "readTime": 2266
-                },
-                {
-                    "readDate": 1724515200,
-                    "readTime": 1473
-                }
-            ]
-        },
-        "noteCount": 8,
-        "reviewCount": 0,
-        "underlineCount": 8,
-        "markCount": 0,
-        "bookInfo": {
-            "bookId": "3300103147",
-            "title": "草民",
-            "author": "蔡崇达",
-            "intro": "《草民》是蔡崇达继《皮囊》《命运》之后全新的中短篇小说集，故乡三部曲收官力作。不同于刻骨铭心的散文集《皮囊》，催人泪下的长篇小说《命运》；《草民》以贴近大地的风格，回望闽南东石镇这一充满温情与历史的故土，聚焦如野草般坚韧的人们——“我们为什么生生不息，我们凭什么生生不息。”\n全书讲述了7个神性与人性交织的玄妙故事。以人物群像的手法，展开老中青三代乡亲的感人故事，共同编织成一支生生不息的东石镇生命之歌。每个人能从《草民》中看见自己或身边人的影子——失意的中年男子、迷茫的年轻人、奋力托举后代的母亲们……他们身上的坚韧和生命力，正是这个迷茫而充满无常的当下，我们所需要的昂扬能量。每一种挣扎都是伟大的，每一个拼命挣扎的人都值得被看到。即使生如草芥，也当有名有姓。谁都是草民，谁也是自己的英雄。\n读完《草民》，有读者说：这本书好像告诉我——我知道你的来处，我熟知你的底色，我理解你的感受。如果你也时常想念家乡、却又飘零在外，推荐你看《草民》——每一个离散的无根之人都能在这本书中找到心的栖息地。一本书欢迎你回家。",
-            "cover": "https://cdn.weread.qq.com/weread/cover/64/cpplatform_wrilau5wukgvbfsmzafchn/s_cpplatform_wrilau5wukgvbfsmzafchn1719297962.jpg",
-            "version": 742026492,
-            "format": "epub",
-            "type": 0,
-            "soldout": 0,
-            "bookStatus": 1,
-            "payType": 1048577,
-            "finished": 1,
-            "free": 0,
-            "mcardDiscount": 0,
-            "ispub": 1,
-            "extra_type": 5,
-            "cpid": -3319053,
-            "publishTime": "2024-05-01 00:00:00",
-            "lastChapterIdx": 14,
-            "paperBook": {
-                "skuId": ""
-            },
-            "centPrice": 5980,
-            "readingCount": 1508,
-            "copyrightChapterUids": [
-                2
-            ],
-            "blockSaveImg": 0,
-            "language": "zh-wr",
-            "hideUpdateTime": false,
-            "isEPUBComics": 0,
-            "selfProduceIncentive": false,
-            "webBookControl": 0
-        },
-        "totalReadingTime": 12654,
-        "deepestNightReadDate": 1724522984,
-        "beginReadingDate": 1721718472,
-        "lastReadingDate": 1724515200,
-        "longestReadingDate": 1724256000,
-        "avgReadingTime": 1406,
-        "longestReadingTime": 2843,
-        "data": [
-            {
-                "readDate": 1723824000,
-                "readTime": 2129
-            },
-            {
-                "readDate": 1723910400,
-                "readTime": 1861
-            },
-            {
-                "readDate": 1723996800,
-                "readTime": 990
-            },
-            {
-                "readDate": 1724083200,
-                "readTime": 810
-            },
-            {
-                "readDate": 1724169600,
-                "readTime": 170
-            },
-            {
-                "readDate": 1724256000,
-                "readTime": 2843
-            },
-            {
-                "readDate": 1724342400,
-                "readTime": 60
-            },
-            {
-                "readDate": 1724428800,
-                "readTime": 2266
-            },
-            {
-                "readDate": 1724515200,
-                "readTime": 1473
-            }
-        ],
-        "readingCount": 1508,
-        "阅读进度": 0.71,
-        "阅读状态": "在读",
-        "阅读时长": 12654,
-        "阅读天数": 9,
-        "评分": 890,
-        "时间": 1724515200,
-        "开始阅读时间": 1721718472,
-        "最后阅读时间": 1724515200,
-        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/c13cbd7c-3b76-47cb-a7ee-3505f37fbe7e.jpg",
-        "书名": "草民",
-        "BookId": "3300103147",
-        "ISBN": "9787546237381",
-        "链接": "https://weread.qq.com/web/reader/370329a0813ab8ecag017dd1",
-        "简介": "《草民》是蔡崇达继《皮囊》《命运》之后全新的中短篇小说集，故乡三部曲收官力作。不同于刻骨铭心的散文集《皮囊》，催人泪下的长篇小说《命运》；《草民》以贴近大地的风格，回望闽南东石镇这一充满温情与历史的故土，聚焦如野草般坚韧的人们——“我们为什么生生不息，我们凭什么生生不息。”\n全书讲述了7个神性与人性交织的玄妙故事。以人物群像的手法，展开老中青三代乡亲的感人故事，共同编织成一支生生不息的东石镇生命之歌。每个人能从《草民》中看见自己或身边人的影子——失意的中年男子、迷茫的年轻人、奋力托举后代的母亲们……他们身上的坚韧和生命力，正是这个迷茫而充满无常的当下，我们所需要的昂扬能量。每一种挣扎都是伟大的，每一个拼命挣扎的人都值得被看到。即使生如草芥，也当有名有姓。谁都是草民，谁也是自己的英雄。\n读完《草民》，有读者说：这本书好像告诉我——我知道你的来处，我熟知你的底色，我理解你的感受。如果你也时常想念家乡、却又飘零在外，推荐你看《草民》——每一个离散的无根之人都能在这本书中找到心的栖息地。一本书欢迎你回家。",
-        "作者": "蔡崇达",
-        "分类": "精品小说-社会小说"
-    },
-    {
         "bookId": "858599",
         "title": "悟空传（典藏纪念版）",
         "author": "今何在",
@@ -538,43 +87,28 @@
         "showLectureButton": 1,
         "wxtts": 1,
         "star": 83,
-        "ratingCount": 21783,
+        "ratingCount": 21850,
         "ratingDetail": {
-            "one": 391,
+            "one": 397,
             "two": 389,
-            "three": 2156,
+            "three": 2171,
             "four": 4190,
-            "five": 12662,
-            "recent": 269
+            "five": 12708,
+            "recent": 331
         },
-        "newRating": 734,
-        "newRatingCount": 18333,
-        "deepVRating": 578,
+        "newRating": 733,
+        "newRatingCount": 18393,
+        "deepVRating": 586,
         "newRatingDetail": {
-            "good": 13424,
-            "fair": 4561,
-            "poor": 348,
-            "recent": 247,
-            "deepV": 173,
+            "good": 13461,
+            "fair": 4578,
+            "poor": 354,
+            "recent": 307,
+            "deepV": 191,
             "myRating": "",
             "title": "值得一读"
         },
-        "ranklist": {
-            "seq": 2,
-            "categoryId": "general_novel_rising",
-            "categoryName": "小说榜",
-            "storeSubType": 0,
-            "scheme": "weread://ranklist?categoryId=general_novel_rising&subtype=0&initialBookId=858599&seq=2&newList=1",
-            "ranklistCover": {
-                "chart_background_color_1": "#0CC7F0",
-                "chart_background_color_2": "#0CE4E1",
-                "chart_title_height": 96,
-                "chart_title_width": 471,
-                "desc": "微信读书用户近期热读的精品小说",
-                "chart_tag": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.general_novel_rising.chart_tag.HMhvXGKn5e.png",
-                "eink_chart_title": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.general_novel_rising.eink_chart_title.qe1RRm02RG.png"
-            }
-        },
+        "ranklist": {},
         "copyrightInfo": {
             "id": -60041,
             "name": "磨铁数盟",
@@ -733,7 +267,7 @@
             "active": 0
         },
         "AISummary": "",
-        "finishedBookCount": 26,
+        "finishedBookCount": 27,
         "readingBookCount": 108,
         "readingBookIndex": 28,
         "readingBookDate": 1532019391,
@@ -741,8 +275,8 @@
         "readingReviewId": "R_19208111_858599",
         "canCancelReadstatus": 0,
         "markedStatus": 2,
-        "readingTime": 4224,
-        "totalReadDay": 6,
+        "readingTime": 4465,
+        "totalReadDay": 7,
         "recordReadingTime": 0,
         "continueReadDays": 3,
         "continueBeginDate": 1724169600,
@@ -750,15 +284,15 @@
         "showSummary": 1,
         "showDetail": 1,
         "readDetail": {
-            "totalReadingTime": 4224,
-            "totalReadDay": 6,
+            "totalReadingTime": 4465,
+            "totalReadDay": 7,
             "continueReadDays": 3,
             "continueBeginDate": 1724169600,
             "continueEndDate": 1724342400,
             "beginReadingDate": 1532019391,
-            "lastReadingDate": 1724342400,
+            "lastReadingDate": 1724688000,
             "longestReadingDate": 1724342400,
-            "avgReadingTime": 704,
+            "avgReadingTime": 637,
             "longestReadingTime": 2544,
             "data": [
                 {
@@ -784,6 +318,10 @@
                 {
                     "readDate": 1724342400,
                     "readTime": 2544
+                },
+                {
+                    "readDate": 1724688000,
+                    "readTime": 241
                 }
             ]
         },
@@ -811,7 +349,7 @@
                 "skuId": "12075497"
             },
             "centPrice": 3980,
-            "readingCount": 4541,
+            "readingCount": 4181,
             "copyrightChapterUids": [
                 99
             ],
@@ -822,11 +360,11 @@
             "selfProduceIncentive": false,
             "webBookControl": 0
         },
-        "totalReadingTime": 4224,
+        "totalReadingTime": 4465,
         "beginReadingDate": 1532019391,
-        "lastReadingDate": 1724342400,
+        "lastReadingDate": 1724688000,
         "longestReadingDate": 1724342400,
-        "avgReadingTime": 704,
+        "avgReadingTime": 637,
         "longestReadingTime": 2544,
         "data": [
             {
@@ -852,17 +390,21 @@
             {
                 "readDate": 1724342400,
                 "readTime": 2544
+            },
+            {
+                "readDate": 1724688000,
+                "readTime": 241
             }
         ],
-        "readingCount": 4541,
+        "readingCount": 4181,
         "阅读进度": 0.57,
         "阅读状态": "在读",
-        "阅读时长": 4224,
-        "阅读天数": 6,
-        "评分": 734,
-        "时间": 1724342400,
+        "阅读时长": 4465,
+        "阅读天数": 7,
+        "评分": 733,
+        "时间": 1724688000,
         "开始阅读时间": 1532019391,
-        "最后阅读时间": 1724342400,
+        "最后阅读时间": 1724688000,
         "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/29aab453c2-b93a-4075-bf0a-9b08bab07386.jpg",
         "书名": "悟空传（典藏纪念版）",
         "BookId": "858599",
@@ -871,6 +413,489 @@
         "简介": "西游是一个很悲壮的故事，是一个关于一群人在路上想寻找当年失去的理想的故事。他们也许弱小，但他们始终不放弃希望。五百年前的齐天大圣，五百年后戴上金箍，踏上了西游之路。前尘尽忘，他挥棒指向曾经并肩作战的兄弟；曾经英俊潇洒的天蓬元帅，转世成为一只猪妖。爱人远在天上，就算终有一天相见，也不忍相认；金蝉子和如来打赌证法，用自己的轮回宿命，来赌世人不屈的反抗之心；小白龙誓死不嫁入天庭，情愿化作一匹白马，用一生沉默为代价，陪伴在爱人左右……总有一天，天宫会再次燃起大火，诸神的权威会再次接受挑战。因为有这样一群人，他们宁肯死，也不肯输。",
         "作者": "今何在",
         "分类": "精品小说-玄幻小说"
+    },
+    {
+        "bookId": "856025",
+        "title": "这些人，那些事",
+        "author": "吴念真",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/1540934c3f-8c9d-4308-a492-05371495bde4.jpg",
+        "version": 396299426,
+        "format": "epub",
+        "type": 0,
+        "price": 27.99,
+        "originalPrice": 0,
+        "soldout": 0,
+        "bookStatus": 1,
+        "payType": 1048577,
+        "intro": "台湾最会说故事的人、知名导演吴念真暌违12年感人之作。本书是他经历过人生的风风雨雨和大低潮后，所完成的生命记事。他用文字写下心底挂念的家人、日夜惦记的家乡、一辈子搏真情的朋友，以及台湾各个角落里真实的感动。这些人和事，透过他真情挚意的笔，如此跃然的活在你我眼前，笑泪交织的同时，也无可取代的成为烙印在你我心底、这一个时代的美好缩影……特别收录吴念真近年小说创作《遗书》，写下对胞弟离开人间的真情告白。特别邀请作家雷骧绘制插画，看两位大师以图文激荡出精采火花。",
+        "centPrice": 2799,
+        "finished": 1,
+        "maxFreeChapter": 9,
+        "maxFreeInfo": {
+            "maxFreeChapterIdx": 9,
+            "maxFreeChapterUid": 55,
+            "maxFreeChapterRatio": 11
+        },
+        "free": 0,
+        "mcardDiscount": 0,
+        "ispub": 1,
+        "extra_type": 5,
+        "cpid": 13583905,
+        "publishTime": "2011-09-01 00:00:00",
+        "category": "文学-散文杂著",
+        "categories": [
+            {
+                "categoryId": 300000,
+                "subCategoryId": 300005,
+                "categoryType": 0,
+                "title": "文学-散文杂著"
+            }
+        ],
+        "hasLecture": 0,
+        "lastChapterIdx": 47,
+        "paperBook": {
+            "skuId": "12640287"
+        },
+        "copyrightChapterUids": [
+            48
+        ],
+        "hasKeyPoint": true,
+        "blockSaveImg": 0,
+        "language": "zh",
+        "hideUpdateTime": false,
+        "isEPUBComics": 0,
+        "webBookControl": 0,
+        "selfProduceIncentive": false,
+        "payingStatus": 2,
+        "chapterSize": 47,
+        "updateTime": 1703129777,
+        "onTime": 1503910831,
+        "lastChapterCreateTime": 1698747290,
+        "unitPrice": 0,
+        "marketType": 0,
+        "isbn": "9787544717731",
+        "publisher": "译林出版社",
+        "totalWords": 84482,
+        "bookSize": 610831,
+        "shouldHideTTS": 0,
+        "recommended": 0,
+        "lectureRecommended": 0,
+        "follow": 0,
+        "secret": 0,
+        "offline": 0,
+        "lectureOffline": 0,
+        "finishReading": 0,
+        "hideReview": 0,
+        "hideFriendMark": 0,
+        "blacked": 0,
+        "isAutoPay": 0,
+        "availables": 0,
+        "paid": 0,
+        "isChapterPaid": 0,
+        "showLectureButton": 1,
+        "wxtts": 1,
+        "star": 87,
+        "ratingCount": 7817,
+        "ratingDetail": {
+            "one": 63,
+            "two": 53,
+            "three": 646,
+            "four": 1930,
+            "five": 4821,
+            "recent": 27
+        },
+        "newRating": 767,
+        "newRatingCount": 6998,
+        "deepVRating": 879,
+        "newRatingDetail": {
+            "good": 5371,
+            "fair": 1579,
+            "poor": 48,
+            "recent": 26,
+            "deepV": 124,
+            "myRating": "",
+            "title": "值得一读"
+        },
+        "ranklist": {},
+        "copyrightInfo": {
+            "id": 13583905,
+            "name": "译林出版社",
+            "userVid": 309077157,
+            "role": 2,
+            "avatar": "https://res.weread.qq.com/wravatar/WV0005-rwrp4saObgIoKDplFQQBfa8/0",
+            "cpType": 0
+        },
+        "authorSeg": [
+            {
+                "words": "吴念真",
+                "highlight": 1,
+                "authorId": "411609"
+            }
+        ],
+        "coverBoxInfo": {
+            "blurhash": "K5Q0N]HXXm%~t,WUE1x]xu",
+            "colors": [
+                {
+                    "key": "6/4",
+                    "hex": "#9a9191"
+                },
+                {
+                    "key": "4/4",
+                    "hex": "#675e5d"
+                },
+                {
+                    "key": "3/4",
+                    "hex": "#4f4545"
+                },
+                {
+                    "key": "3/6",
+                    "hex": "#4f4545"
+                },
+                {
+                    "key": "3/8",
+                    "hex": "#4f4545"
+                },
+                {
+                    "key": "2/4",
+                    "hex": "#372f2f"
+                },
+                {
+                    "key": "2/6",
+                    "hex": "#372f2f"
+                },
+                {
+                    "key": "2/8",
+                    "hex": "#372f2f"
+                },
+                {
+                    "key": "1/4",
+                    "hex": "#231a1c"
+                },
+                {
+                    "key": "1/6",
+                    "hex": "#231a1c"
+                },
+                {
+                    "key": "1/8",
+                    "hex": "#231a1c"
+                },
+                {
+                    "key": "6/6",
+                    "hex": "#9a9191"
+                },
+                {
+                    "key": "4/6",
+                    "hex": "#675e5d"
+                },
+                {
+                    "key": "9/2",
+                    "hex": "#e8e1e0"
+                },
+                {
+                    "key": "4/10",
+                    "hex": "#675e5d"
+                },
+                {
+                    "key": "5/10",
+                    "hex": "#807877"
+                },
+                {
+                    "key": "5/4",
+                    "hex": "#807877"
+                },
+                {
+                    "key": "8/4",
+                    "hex": "#cdc6c5"
+                },
+                {
+                    "key": "5/8",
+                    "hex": "#807877"
+                },
+                {
+                    "key": "6/8",
+                    "hex": "#9a9191"
+                },
+                {
+                    "key": "8/6",
+                    "hex": "#cdc6c5"
+                },
+                {
+                    "key": "7/8",
+                    "hex": "#b4acab"
+                },
+                {
+                    "key": "3/12",
+                    "hex": "#4f4545"
+                },
+                {
+                    "key": "9/12",
+                    "hex": "#e8e1e0"
+                },
+                {
+                    "key": "1/100",
+                    "hex": "#9a9191"
+                },
+                {
+                    "key": "2/100",
+                    "hex": "#b4acab"
+                },
+                {
+                    "key": "3/100",
+                    "hex": "#ffffff"
+                },
+                {
+                    "key": "4/100",
+                    "hex": "#F3E8E5"
+                },
+                {
+                    "key": "5/100",
+                    "hex": "#F3E8E5"
+                },
+                {
+                    "key": "6/100",
+                    "hex": "#270500"
+                }
+            ],
+            "dominate_color": {
+                "hex": "#e4dddc",
+                "hsv": [
+                    5.390252282108052,
+                    3.635301943972208,
+                    89.563308448518
+                ]
+            },
+            "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/25/856025/s_856025.jpg",
+            "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/25/856025/s_856025.jpg"
+        },
+        "skuInfo": {
+            "miniProgramId": "gh_78fd80800407",
+            "path": "/pages/product/product?pid=22484643&unionid=P-136100358m"
+        },
+        "shortTimeRead": {
+            "active": 0
+        },
+        "AISummary": "这是一本由台湾最会说故事的人、知名导演吴念真创作的现当代随笔集。这本书是他经历过人生的风风雨雨和大低潮后，所完成的生命记事。他用文字写下心底挂念的家人、日夜惦记的家乡、一辈子搏真情的朋友，以及台湾各个角落里真实的感动。这些人和事，透过他真情挚意的笔，如此跃然的活在你我眼前，笑泪交织的同时，也无可取代的成为烙印在你我心底、这一个时代的美好缩影……\n\n书中的故事涵盖了亲情、友情、爱情等多个方面，每个故事都充满了生活的真实和深刻。例如，在 《母难月》 中，作者描述了自己与母亲之间的深厚感情，以及母亲在生活中的种种付出和牺牲。在 《春日》 中，作者讲述了自己与朋友之间的深厚友谊，以及他们在生活中的相互扶持和帮助。在 《遗书》 中，作者写下了对胞弟离开人间的真情告白，展现了他对生命的深刻思考和感悟。\n\n书中的故事不仅充满了生活的真实和深刻，也充满了人性的光辉和温暖。例如，在 《阿春》 中，作者描述了一个名叫阿春的人，他虽然生活在贫困中，但他却始终保持着乐观和积极的态度，用自己的努力改变了自己的命运。在 《未遂犯》 中，作者描述了一个名叫兵的人，他虽然曾经犯过罪，但在监狱中他仍然保持着对生活的热爱和希望，用自己的行动证明了自己的改变。",
+        "finishedBookCount": 27,
+        "readingBookCount": 108,
+        "readingBookIndex": 100,
+        "readingBookDate": 1706876169,
+        "readingProgress": 78,
+        "readingReviewId": "R_19208111_856025",
+        "canCancelReadstatus": 0,
+        "markedStatus": 2,
+        "readingTime": 10189,
+        "totalReadDay": 16,
+        "recordReadingTime": 0,
+        "deepestNightReadTime": 1714670719,
+        "showSummary": 1,
+        "showDetail": 1,
+        "readDetail": {
+            "totalReadingTime": 10189,
+            "totalReadDay": 16,
+            "continueReadDays": 2,
+            "continueBeginDate": 1724601600,
+            "continueEndDate": 1724688000,
+            "deepestNightReadDate": 1714670719,
+            "beginReadingDate": 1706876169,
+            "lastReadingDate": 1724688000,
+            "longestReadingDate": 1724688000,
+            "avgReadingTime": 636,
+            "longestReadingTime": 3939,
+            "data": [
+                {
+                    "readDate": 1706889600,
+                    "readTime": 677
+                },
+                {
+                    "readDate": 1707667200,
+                    "readTime": 187
+                },
+                {
+                    "readDate": 1708272000,
+                    "readTime": 1516
+                },
+                {
+                    "readDate": 1708876800,
+                    "readTime": 331
+                },
+                {
+                    "readDate": 1710777600,
+                    "readTime": 266
+                },
+                {
+                    "readDate": 1710950400,
+                    "readTime": 287
+                },
+                {
+                    "readDate": 1711728000,
+                    "readTime": 258
+                },
+                {
+                    "readDate": 1711814400,
+                    "readTime": 172
+                },
+                {
+                    "readDate": 1712332800,
+                    "readTime": 668
+                },
+                {
+                    "readDate": 1712419200,
+                    "readTime": 187
+                },
+                {
+                    "readDate": 1713888000,
+                    "readTime": 174
+                },
+                {
+                    "readDate": 1714665600,
+                    "readTime": 695
+                },
+                {
+                    "readDate": 1716739200,
+                    "readTime": 280
+                },
+                {
+                    "readDate": 1716825600,
+                    "readTime": 255
+                },
+                {
+                    "readDate": 1724601600,
+                    "readTime": 263
+                },
+                {
+                    "readDate": 1724688000,
+                    "readTime": 3939
+                }
+            ]
+        },
+        "bookInfo": {
+            "bookId": "856025",
+            "title": "这些人，那些事",
+            "author": "吴念真",
+            "intro": "台湾最会说故事的人、知名导演吴念真暌违12年感人之作。本书是他经历过人生的风风雨雨和大低潮后，所完成的生命记事。他用文字写下心底挂念的家人、日夜惦记的家乡、一辈子搏真情的朋友，以及台湾各个角落里真实的感动。这些人和事，透过他真情挚意的笔，如此跃然的活在你我眼前，笑泪交织的同时，也无可取代的成为烙印在你我心底、这一个时代的美好缩影……特别收录吴念真近年小说创作《遗书》，写下对胞弟离开人间的真情告白。特别邀请作家雷骧绘制插画，看两位大师以图文激荡出精采火花。",
+            "cover": "https://cdn.weread.qq.com/weread/cover/74/YueWen_856025/s_YueWen_856025.jpg",
+            "version": 396299426,
+            "format": "epub",
+            "type": 0,
+            "soldout": 0,
+            "bookStatus": 1,
+            "payType": 1048577,
+            "finished": 1,
+            "free": 0,
+            "mcardDiscount": 0,
+            "ispub": 1,
+            "extra_type": 5,
+            "cpid": 13583905,
+            "publishTime": "2011-09-01 00:00:00",
+            "lastChapterIdx": 47,
+            "paperBook": {
+                "skuId": "12640287"
+            },
+            "centPrice": 2799,
+            "readingCount": 36,
+            "copyrightChapterUids": [
+                48
+            ],
+            "blockSaveImg": 0,
+            "language": "zh",
+            "hideUpdateTime": false,
+            "isEPUBComics": 0,
+            "selfProduceIncentive": false,
+            "webBookControl": 0
+        },
+        "totalReadingTime": 10189,
+        "continueReadDays": 2,
+        "continueBeginDate": 1724601600,
+        "continueEndDate": 1724688000,
+        "deepestNightReadDate": 1714670719,
+        "beginReadingDate": 1706876169,
+        "lastReadingDate": 1724688000,
+        "longestReadingDate": 1724688000,
+        "avgReadingTime": 636,
+        "longestReadingTime": 3939,
+        "data": [
+            {
+                "readDate": 1706889600,
+                "readTime": 677
+            },
+            {
+                "readDate": 1707667200,
+                "readTime": 187
+            },
+            {
+                "readDate": 1708272000,
+                "readTime": 1516
+            },
+            {
+                "readDate": 1708876800,
+                "readTime": 331
+            },
+            {
+                "readDate": 1710777600,
+                "readTime": 266
+            },
+            {
+                "readDate": 1710950400,
+                "readTime": 287
+            },
+            {
+                "readDate": 1711728000,
+                "readTime": 258
+            },
+            {
+                "readDate": 1711814400,
+                "readTime": 172
+            },
+            {
+                "readDate": 1712332800,
+                "readTime": 668
+            },
+            {
+                "readDate": 1712419200,
+                "readTime": 187
+            },
+            {
+                "readDate": 1713888000,
+                "readTime": 174
+            },
+            {
+                "readDate": 1714665600,
+                "readTime": 695
+            },
+            {
+                "readDate": 1716739200,
+                "readTime": 280
+            },
+            {
+                "readDate": 1716825600,
+                "readTime": 255
+            },
+            {
+                "readDate": 1724601600,
+                "readTime": 263
+            },
+            {
+                "readDate": 1724688000,
+                "readTime": 3939
+            }
+        ],
+        "readingCount": 36,
+        "阅读进度": 0.78,
+        "阅读状态": "在读",
+        "阅读时长": 10189,
+        "阅读天数": 16,
+        "评分": 767,
+        "时间": 1724688000,
+        "开始阅读时间": 1706876169,
+        "最后阅读时间": 1724688000,
+        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/1540934c3f-8c9d-4308-a492-05371495bde4.jpg",
+        "书名": "这些人，那些事",
+        "BookId": "856025",
+        "ISBN": "9787544717731",
+        "链接": "https://weread.qq.com/web/reader/663329e05d0fd9663d681b8",
+        "简介": "台湾最会说故事的人、知名导演吴念真暌违12年感人之作。本书是他经历过人生的风风雨雨和大低潮后，所完成的生命记事。他用文字写下心底挂念的家人、日夜惦记的家乡、一辈子搏真情的朋友，以及台湾各个角落里真实的感动。这些人和事，透过他真情挚意的笔，如此跃然的活在你我眼前，笑泪交织的同时，也无可取代的成为烙印在你我心底、这一个时代的美好缩影……特别收录吴念真近年小说创作《遗书》，写下对胞弟离开人间的真情告白。特别邀请作家雷骧绘制插画，看两位大师以图文激荡出精采火花。",
+        "作者": "吴念真",
+        "分类": "文学-散文杂著"
     },
     {
         "bookId": "25614391",
@@ -954,24 +979,24 @@
         "showLectureButton": 1,
         "wxtts": 1,
         "star": 89,
-        "ratingCount": 2853,
+        "ratingCount": 2857,
         "ratingDetail": {
             "one": 30,
             "two": 9,
             "three": 181,
             "four": 226,
-            "five": 2405,
-            "recent": 20
+            "five": 2409,
+            "recent": 24
         },
         "newRating": 873,
-        "newRatingCount": 2614,
-        "deepVRating": 906,
+        "newRatingCount": 2618,
+        "deepVRating": 907,
         "newRatingDetail": {
-            "good": 2291,
+            "good": 2295,
             "fair": 302,
             "poor": 21,
-            "recent": 19,
-            "deepV": 181,
+            "recent": 23,
+            "deepV": 183,
             "myRating": "",
             "title": "好评如潮"
         },
@@ -1154,11 +1179,11 @@
             "active": 0
         },
         "AISummary": "这是一本独特的回忆录，它通过欧文·亚隆的人生经历和心理治疗实践，探讨了人生意义、自我认知、亲情、友情、爱情等多个主题。这本书不仅是亚隆的个人自传，也是他的精神分析、心理治疗、文学创作等多个领域的综合展现。\n\n这本书的内容丰富而深入，涵盖了亚隆的童年经历、大学时代、医学院生活、婚姻生活、职业生涯、精神治疗实践、个人成长等多个方面。其中，梦境中的同理心体验、作者对愤怒的理解与处理、维也纳对作者的影响、约翰·霍普金斯医院的实习经历、短信治疗的发展及其特点、会心团体运动的兴起与争议、婚礼与欧洲蜜月之旅、斯宾诺莎对作者创作的影响、琼的去世对作者的影响、希腊的文化和历史对作者的影响、斯坦福生涯对团体治疗的影响、作者对死亡的深入思考、叔本华与心理治疗的关系、无领导的治疗师团体、萝丝与女儿的关系问题、玛丽莲与作者的感情生活等关键内容点，都是书中的亮点。\n\n这本书的语言风格独特，充满了人文关怀和哲学思考。亚隆用他的笔，描绘出了一幅幅生动的人生画卷，让我们看到了一个真实、深刻、复杂、矛盾的人。他的文字既有深度，又有温度，既有理性，又有感性，既有哲学，又有文学，既有科学，又有艺术，既有个人，又有社会，既有过去，又有现在，既有理论，又有实践，既有痛苦，又有快乐，既有悲伤，又有希望。",
-        "finishedBookCount": 26,
+        "finishedBookCount": 27,
         "readingBookDate": 1724314624,
         "canCancelReadstatus": 1,
         "markedStatus": 1,
-        "readingTime": 2,
+        "readingTime": 22,
         "recordReadingTime": 0,
         "showSummary": 0,
         "showDetail": 0,
@@ -1201,7 +1226,7 @@
         "readingCount": 105,
         "阅读进度": 0.0,
         "阅读状态": "想读",
-        "阅读时长": 2,
+        "阅读时长": 22,
         "阅读天数": null,
         "评分": 873,
         "时间": 1724314624,
@@ -1217,360 +1242,11 @@
         "分类": "文学-散文杂著"
     },
     {
-        "bookId": "573922",
-        "title": "领导梯队：全面打造领导力驱动型公司",
-        "author": "查兰",
-        "translator": "徐中，林嵩，雷静",
-        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/165417294a-695c-4b71-bc83-50e007ab2d30.jpg",
-        "version": 1150758902,
-        "format": "epub",
-        "type": 0,
-        "price": 20.0,
-        "originalPrice": 0,
-        "soldout": 0,
-        "bookStatus": 1,
-        "payType": 1048577,
-        "intro": "领导力发展的圣经，领导梯队模型已经在全球500强企业中普遍应用，是企业制定领导人才继任计划和培养各级领导人才的路径指南。能力与岗位的匹配，特别是各层级管理者的能力与岗位的匹配，是一个从未解决的老问题。员工的不能胜任很大程度上是由于“被提升”，责任更多在于人力部门，虽然员工本人未能主动寻求改进也是原因之一。本书通过对六个典型的管理层级最经常出现的问题，从领导技能、时间管理、工作理念三个方面进行了分析，提出了改进建议。企业要想获得成功，就必须在各个领导层级拥有出色的领导者。然而，企业内部培养领导人才的传统模式，常常缺乏系统性和完整性。本书有效地解决了上述问题，指导企业成功应对今天的商业环境带来的挑战。“领导梯队模型”源自通用电气等世界卓越企业的实践，对于企业制定领导人才继任计划和培养各级领导人才具有重要的指导作用。",
-        "centPrice": 2000,
-        "finished": 1,
-        "maxFreeChapter": 8,
-        "maxFreeInfo": {
-            "maxFreeChapterIdx": 8,
-            "maxFreeChapterUid": 32,
-            "maxFreeChapterRatio": 67
-        },
-        "free": 0,
-        "mcardDiscount": 0,
-        "ispub": 1,
-        "extra_type": 1,
-        "cpid": 4157477,
-        "publishTime": "2011-07-01 00:00:00",
-        "category": "经济理财-管理",
-        "categories": [
-            {
-                "categoryId": 1100000,
-                "subCategoryId": 1100002,
-                "categoryType": 0,
-                "title": "经济理财-管理"
-            }
-        ],
-        "hasLecture": 0,
-        "lastChapterIdx": 25,
-        "paperBook": {
-            "skuId": "10708646"
-        },
-        "copyrightChapterUids": [
-            26
-        ],
-        "hasKeyPoint": true,
-        "blockSaveImg": 0,
-        "language": "zh",
-        "hideUpdateTime": false,
-        "isEPUBComics": 0,
-        "webBookControl": 0,
-        "selfProduceIncentive": false,
-        "payingStatus": 2,
-        "chapterSize": 25,
-        "updateTime": 1711022486,
-        "onTime": 1453196169,
-        "lastChapterCreateTime": 1707152704,
-        "unitPrice": 0,
-        "marketType": 0,
-        "isbn": "9787111349341",
-        "publisher": "机械工业出版社",
-        "totalWords": 166323,
-        "publishPrice": 42.0,
-        "bookSize": 781919,
-        "shouldHideTTS": 0,
-        "recommended": 0,
-        "lectureRecommended": 0,
-        "follow": 0,
-        "secret": 0,
-        "offline": 0,
-        "lectureOffline": 0,
-        "finishReading": 0,
-        "hideReview": 0,
-        "hideFriendMark": 0,
-        "blacked": 0,
-        "isAutoPay": 0,
-        "availables": 0,
-        "paid": 0,
-        "isChapterPaid": 0,
-        "showLectureButton": 1,
-        "wxtts": 1,
-        "star": 85,
-        "ratingCount": 1626,
-        "ratingDetail": {
-            "one": 35,
-            "two": 6,
-            "three": 138,
-            "four": 193,
-            "five": 1184,
-            "recent": 9
-        },
-        "newRating": 811,
-        "newRatingCount": 1420,
-        "deepVRating": 735,
-        "newRatingDetail": {
-            "good": 1149,
-            "fair": 242,
-            "poor": 29,
-            "recent": 9,
-            "deepV": 49,
-            "myRating": "",
-            "title": "脍炙人口"
-        },
-        "ranklist": {},
-        "copyrightInfo": {
-            "id": 4157477,
-            "name": "机械工业出版社",
-            "userVid": 0,
-            "role": 0,
-            "avatar": "",
-            "cpType": 0
-        },
-        "authorSeg": [
-            {
-                "words": "查兰",
-                "highlight": 1,
-                "authorId": "412490"
-            }
-        ],
-        "translatorSeg": [
-            {
-                "words": "徐中",
-                "highlight": 1,
-                "authorId": "866750"
-            },
-            {
-                "words": "，",
-                "highlight": 0
-            },
-            {
-                "words": "林嵩",
-                "highlight": 1,
-                "authorId": "345556"
-            },
-            {
-                "words": "，",
-                "highlight": 0
-            },
-            {
-                "words": "雷静",
-                "highlight": 1,
-                "authorId": "161488"
-            }
-        ],
-        "coverBoxInfo": {
-            "blurhash": "KWF#X6ayIo16ayNG^ijsoJ",
-            "colors": [
-                {
-                    "key": "6/4",
-                    "hex": "#ad8e68"
-                },
-                {
-                    "key": "4/4",
-                    "hex": "#785b36"
-                },
-                {
-                    "key": "3/4",
-                    "hex": "#5d4223"
-                },
-                {
-                    "key": "3/6",
-                    "hex": "#644009"
-                },
-                {
-                    "key": "3/8",
-                    "hex": "#683e00"
-                },
-                {
-                    "key": "2/4",
-                    "hex": "#442c0d"
-                },
-                {
-                    "key": "2/6",
-                    "hex": "#4b2900"
-                },
-                {
-                    "key": "2/8",
-                    "hex": "#4f2700"
-                },
-                {
-                    "key": "1/4",
-                    "hex": "#311500"
-                },
-                {
-                    "key": "1/6",
-                    "hex": "#391000"
-                },
-                {
-                    "key": "1/8",
-                    "hex": "#400a00"
-                },
-                {
-                    "key": "6/6",
-                    "hex": "#b78c50"
-                },
-                {
-                    "key": "4/6",
-                    "hex": "#7f5821"
-                },
-                {
-                    "key": "9/2",
-                    "hex": "#f2e1c8"
-                },
-                {
-                    "key": "4/10",
-                    "hex": "#885500"
-                },
-                {
-                    "key": "5/10",
-                    "hex": "#a66e00"
-                },
-                {
-                    "key": "5/4",
-                    "hex": "#92744f"
-                },
-                {
-                    "key": "8/4",
-                    "hex": "#e2c399"
-                },
-                {
-                    "key": "5/8",
-                    "hex": "#a2701c"
-                },
-                {
-                    "key": "6/8",
-                    "hex": "#be8a37"
-                },
-                {
-                    "key": "8/6",
-                    "hex": "#edc181"
-                },
-                {
-                    "key": "7/8",
-                    "hex": "#daa451"
-                },
-                {
-                    "key": "3/12",
-                    "hex": "#713a00"
-                },
-                {
-                    "key": "9/12",
-                    "hex": "#ffd648"
-                },
-                {
-                    "key": "1/100",
-                    "hex": "#be8a37"
-                },
-                {
-                    "key": "2/100",
-                    "hex": "#daa451"
-                },
-                {
-                    "key": "3/100",
-                    "hex": "#ffffff"
-                },
-                {
-                    "key": "4/100",
-                    "hex": "#F3EDE5"
-                },
-                {
-                    "key": "5/100",
-                    "hex": "#F3EDE5"
-                },
-                {
-                    "key": "6/100",
-                    "hex": "#271300"
-                }
-            ],
-            "dominate_color": {
-                "hex": "#d09a45",
-                "hsv": [
-                    36.81780699003736,
-                    67.01397350792641,
-                    81.5842502500682
-                ]
-            },
-            "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/922/573922/s_573922.jpg",
-            "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/922/573922/s_573922.jpg"
-        },
-        "skuInfo": {
-            "miniProgramId": "gh_78fd80800407",
-            "path": "/pages/product/product?pid=21127043&unionid=P-136100358m"
-        },
-        "shortTimeRead": {
-            "active": 0
-        },
-        "AISummary": "这是一本全面深入探讨领导力发展问题的著作。本书以领导梯队模型为核心，阐述了从一线员工到首席执行官，每个领导力发展阶段所需具备的领导技能、时间管理能力和工作理念。通过六个典型的管理层级，本书揭示了领导者成长过程中的关键挑战和应对策略。\n\n书中首先介绍了领导力发展的六个阶段概述，即从管理自我到管理他人，从管理他人到管理经理人员，从管理经理人员到管理职能部门，从管理职能部门到事业部总经理，从事业部总经理到集团高管，最后是从集团高管到首席执行官。每个阶段都需要领导者习得一种新的管理和领导方法，同时抛弃原有的方法。\n\n接着，本书深入探讨了小公司领导力发展面临的挑战，包括人才培养机制、领导者的角色定位、管理者的成熟度、领导力转型以及全球化背景下的公司管理。这些挑战要求小公司建立有效的人才培养机制，明确领导者的角色定位，提升管理者的成熟度，实现领导力转型，并适应全球化背景下的公司管理。\n\n此外，本书还详细阐述了事业部副总经理的角色与职责，以及事业部总经理面临的挑战。事业部副总经理需要具备战略思维，并学会重视所有部门。事业部总经理则需要处理复杂的问题，并改变他们的思维模式。\n\n在讨论集团高管的角色与挑战时，本书指出集团高管是公司的高层领导，他们的工作职责包括管理多个业务单元，推动公司层面的战略实施，以及培养事业部总经理等。\n\n在讨论首席执行官面临的挑战时，本书强调首席执行官需要平衡短期和长期利益，设定公司发展方向，管理全球化背景下的公司，听取董事会意见以及转型过程中的困境信号。",
-        "finishedBookCount": 26,
-        "canCancelReadstatus": 1,
-        "markedStatus": 1,
-        "readingTime": 0,
-        "recordReadingTime": 0,
-        "showSummary": 0,
-        "showDetail": 0,
-        "bookInfo": {
-            "bookId": "573922",
-            "title": "领导梯队：全面打造领导力驱动型公司",
-            "author": "查兰",
-            "translator": "徐中，林嵩，雷静",
-            "intro": "领导力发展的圣经，领导梯队模型已经在全球500强企业中普遍应用，是企业制定领导人才继任计划和培养各级领导人才的路径指南。能力与岗位的匹配，特别是各层级管理者的能力与岗位的匹配，是一个从未解决的老问题。员工的不能胜任很大程度上是由于“被提升”，责任更多在于人力部门，虽然员工本人未能主动寻求改进也是原因之一。本书通过对六个典型的管理层级最经常出现的问题，从领导技能、时间管理、工作理念三个方面进行了分析，提出了改进建议。企业要想获得成功，就必须在各个领导层级拥有出色的领导者。然而，企业内部培养领导人才的传统模式，常常缺乏系统性和完整性。本书有效地解决了上述问题，指导企业成功应对今天的商业环境带来的挑战。“领导梯队模型”源自通用电气等世界卓越企业的实践，对于企业制定领导人才继任计划和培养各级领导人才具有重要的指导作用。",
-            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/922/573922/s_573922.jpg",
-            "version": 1150758902,
-            "format": "epub",
-            "type": 0,
-            "soldout": 0,
-            "bookStatus": 1,
-            "payType": 1048577,
-            "finished": 1,
-            "free": 0,
-            "mcardDiscount": 0,
-            "ispub": 1,
-            "extra_type": 1,
-            "cpid": 4157477,
-            "publishTime": "2011-07-01 00:00:00",
-            "lastChapterIdx": 25,
-            "paperBook": {
-                "skuId": "10708646"
-            },
-            "centPrice": 2000,
-            "readingCount": 83,
-            "copyrightChapterUids": [
-                26
-            ],
-            "blockSaveImg": 0,
-            "language": "zh",
-            "hideUpdateTime": false,
-            "isEPUBComics": 0,
-            "selfProduceIncentive": false,
-            "webBookControl": 0
-        },
-        "readingCount": 83,
-        "阅读进度": 0.0,
-        "阅读状态": "想读",
-        "阅读时长": 0,
-        "阅读天数": null,
-        "评分": 811,
-        "时间": null,
-        "开始阅读时间": null,
-        "最后阅读时间": null,
-        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/165417294a-695c-4b71-bc83-50e007ab2d30.jpg",
-        "书名": "领导梯队：全面打造领导力驱动型公司",
-        "BookId": "573922",
-        "ISBN": "9787111349341",
-        "链接": "https://weread.qq.com/web/reader/95b3236058c1e295bea67b2",
-        "简介": "领导力发展的圣经，领导梯队模型已经在全球500强企业中普遍应用，是企业制定领导人才继任计划和培养各级领导人才的路径指南。能力与岗位的匹配，特别是各层级管理者的能力与岗位的匹配，是一个从未解决的老问题。员工的不能胜任很大程度上是由于“被提升”，责任更多在于人力部门，虽然员工本人未能主动寻求改进也是原因之一。本书通过对六个典型的管理层级最经常出现的问题，从领导技能、时间管理、工作理念三个方面进行了分析，提出了改进建议。企业要想获得成功，就必须在各个领导层级拥有出色的领导者。然而，企业内部培养领导人才的传统模式，常常缺乏系统性和完整性。本书有效地解决了上述问题，指导企业成功应对今天的商业环境带来的挑战。“领导梯队模型”源自通用电气等世界卓越企业的实践，对于企业制定领导人才继任计划和培养各级领导人才具有重要的指导作用。",
-        "作者": "查兰",
-        "分类": "经济理财-管理"
-    },
-    {
-        "bookId": "3300030955",
-        "title": "命运",
+        "bookId": "3300103147",
+        "title": "草民",
         "author": "蔡崇达",
-        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/11e6f826d4-5be8-4753-a129-6f648c048ca3.jpg",
-        "version": 1835708567,
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/c13cbd7c-3b76-47cb-a7ee-3505f37fbe7e.jpg",
+        "version": 742026492,
         "format": "epub",
         "type": 0,
         "price": 59.8,
@@ -1578,21 +1254,21 @@
         "soldout": 0,
         "bookStatus": 1,
         "payType": 1048577,
-        "intro": "《命运》是蔡崇达继《皮囊》之后，时隔八年潜心创作的长篇小说。\r\n《皮囊》里的那句“皮囊是拿来用的，不是拿来伺候的。”正是出自《命运》的主人公，阿太之口。《命运》以九十九岁的她一生的故事为主线，串联起福建闽南沿海小镇几代人的人生故事、命运选择与时代浮沉。\r\n全书以阿太的五段回忆，切入时间长河中人们不得不直面的一个个本质命题：\r\n层层浪：你们就此没有过去，只有将来——\r\n当原本稳固的活法被打碎，给人庇护的传统秩序被割裂，陷入巨大无常中的一个个单薄的人，要如何活下去？内心的安宁要放置在何处？\r\n海上土：灵感是浮游在海上的土——\r\n羁绊和意义是人心灵的压舱石，当生活的浪头打过来时不至于被掀翻。阿太生命中那些失去了压舱石的人，被命运一个个顺水推舟地带走了。而此时的她，尚只有十六岁。\r\n田里花：想结果的花，都早早低头——\r\n背负着“无子无孙无儿送终”的命运预言，她成了亲，有了婆家与丈夫，抱养了孩子。但见过命运的人会明白，命运的激流从未停止，人在其中并不知晓，哪一次告别，就是诀别。\r\n厕中佛：腐烂之地，神明之所——\r\n时代的巨浪之下，如何守住内心的清明与信仰？这世上容易的活法，就是为别人而活。而如果那人恰好也是为你而活，那么日子再苦，也过得像地瓜一样甜了。\r\n天顶孔：要么入土为安，要么向天开枪——\r\n阿太的故事走到了落幕时分，死亡成了她亲密的旧友。她终是生下了自己的命运，成为自己命运的母亲。这人间她来过，她永不再回。",
+        "intro": "《草民》是蔡崇达继《皮囊》《命运》之后全新的中短篇小说集，故乡三部曲收官力作。不同于刻骨铭心的散文集《皮囊》，催人泪下的长篇小说《命运》；《草民》以贴近大地的风格，回望闽南东石镇这一充满温情与历史的故土，聚焦如野草般坚韧的人们——“我们为什么生生不息，我们凭什么生生不息。”\n全书讲述了7个神性与人性交织的玄妙故事。以人物群像的手法，展开老中青三代乡亲的感人故事，共同编织成一支生生不息的东石镇生命之歌。每个人能从《草民》中看见自己或身边人的影子——失意的中年男子、迷茫的年轻人、奋力托举后代的母亲们……他们身上的坚韧和生命力，正是这个迷茫而充满无常的当下，我们所需要的昂扬能量。每一种挣扎都是伟大的，每一个拼命挣扎的人都值得被看到。即使生如草芥，也当有名有姓。谁都是草民，谁也是自己的英雄。\n读完《草民》，有读者说：这本书好像告诉我——我知道你的来处，我熟知你的底色，我理解你的感受。如果你也时常想念家乡、却又飘零在外，推荐你看《草民》——每一个离散的无根之人都能在这本书中找到心的栖息地。一本书欢迎你回家。",
         "centPrice": 5980,
         "finished": 1,
-        "maxFreeChapter": 5,
+        "maxFreeChapter": 7,
         "maxFreeInfo": {
-            "maxFreeChapterIdx": 5,
+            "maxFreeChapterIdx": 7,
             "maxFreeChapterUid": 15,
-            "maxFreeChapterRatio": 37
+            "maxFreeChapterRatio": 74
         },
         "free": 0,
         "mcardDiscount": 0,
         "ispub": 1,
         "extra_type": 5,
         "cpid": -3319053,
-        "publishTime": "2022-09-01 00:00:00",
+        "publishTime": "2024-05-01 00:00:00",
         "category": "精品小说-社会小说",
         "categories": [
             {
@@ -1602,32 +1278,32 @@
                 "title": "精品小说-社会小说"
             }
         ],
-        "hasLecture": 1,
-        "lastChapterIdx": 11,
+        "hasLecture": 0,
+        "lastChapterIdx": 14,
         "paperBook": {
             "skuId": ""
         },
         "copyrightChapterUids": [
-            12
+            2
         ],
         "hasKeyPoint": false,
         "blockSaveImg": 0,
-        "language": "zh-CN",
+        "language": "zh-wr",
         "hideUpdateTime": false,
         "isEPUBComics": 0,
         "webBookControl": 0,
         "selfProduceIncentive": false,
         "payingStatus": 2,
-        "chapterSize": 11,
-        "updateTime": 1714117742,
-        "onTime": 1664270751,
-        "lastChapterCreateTime": 1682270401,
+        "chapterSize": 14,
+        "updateTime": 1724405984,
+        "onTime": 1719504000,
+        "lastChapterCreateTime": 1724405085,
         "unitPrice": 0,
         "marketType": 0,
-        "isbn": "9787533969608",
-        "publisher": "浙江文艺出版社/广州出版社",
-        "totalWords": 160550,
-        "bookSize": 1254353,
+        "isbn": "9787546237381",
+        "publisher": "广州出版社",
+        "totalWords": 141450,
+        "bookSize": 504991,
         "shouldHideTTS": 0,
         "recommended": 0,
         "lectureRecommended": 0,
@@ -1645,51 +1321,51 @@
         "isChapterPaid": 0,
         "showLectureButton": 1,
         "wxtts": 1,
-        "ratingCount": 30121,
+        "ratingCount": 4990,
         "ratingDetail": {
-            "one": 488,
+            "one": 148,
             "two": 0,
-            "three": 957,
+            "three": 321,
             "four": 1,
-            "five": 28671,
-            "recent": 1244
+            "five": 4520,
+            "recent": 1594
         },
-        "newRating": 940,
-        "newRatingCount": 28639,
-        "deepVRating": 947,
+        "newRating": 890,
+        "newRatingCount": 4673,
+        "deepVRating": 915,
         "newRatingDetail": {
-            "good": 27298,
-            "fair": 891,
-            "poor": 450,
-            "recent": 1204,
-            "deepV": 3741,
-            "myRating": "",
-            "title": "神作"
+            "good": 4264,
+            "fair": 289,
+            "poor": 120,
+            "recent": 1552,
+            "deepV": 2081,
+            "myRating": "good",
+            "title": "好评如潮"
         },
         "ranklist": {
-            "seq": 25,
-            "categoryId": "all",
-            "categoryName": "总榜",
+            "seq": 24,
+            "categoryId": "newbook",
+            "categoryName": "新书·出版",
             "storeSubType": 0,
-            "scheme": "weread://ranklist?categoryId=all&subtype=0&initialBookId=3300030955&seq=25&newList=1",
+            "scheme": "weread://ranklist?categoryId=newbook&subtype=0&initialBookId=3300103147&seq=24&newList=1",
             "ranklistCover": {
-                "tinycode": "https://rescdn.qqmail.com/weread/cover/ranklist.all.tinycode.8A3kIWv1MX.png",
-                "chart_title": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.all.chart_title.JPnYFfuPbm.png",
-                "chart_detail_title": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.all.chart_detail_title.sMh65ixe9l.png",
-                "chart_detail_title_dark": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.all.chart_detail_title_dark.2ky4HSJU3V.png",
-                "chart_share_title": "https://rescdn.qqmail.com/weread/cover/ranklist.all.chart_share_title.hqPEOLVffW.png",
-                "chart_share_logo": "https://rescdn.qqmail.com/weread/cover/ranklist.all.chart_share_logo.8DDUxHqsiv.png",
-                "chart_book_detial_icon": "https://rescdn.qqmail.com/weread/cover/ranklist.all.chart_book_detial_icon.6tpmPfmz6F.png",
-                "chart_tag": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.all.chart_tag.10XdZh6eUV.png",
-                "eink_chart_title": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.all.eink_chart_title.JVKRmQ5WCg.png",
-                "chart_title_main": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.all.chart_title_main.5y2PAdJQdr.png",
-                "chart_detail_title_main": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.all.chart_detail_title_main.VC1GJeqgCf.png",
-                "chart_detail_title_dark_main": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.all.chart_detail_title_dark_main.r45lFTyRNo.png",
-                "chart_background_color_1": "#34A7FF",
-                "chart_background_color_2": "#39CFFF",
+                "tinycode": "https://rescdn.qqmail.com/weread/cover/ranklist.newbook.tinycode.2j6E9UyUae.png",
+                "chart_title": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.chart_title.GWZVW5nl3Z.png",
+                "chart_detail_title": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.chart_detail_title.s2syPpuozE.png",
+                "chart_detail_title_dark": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.chart_detail_title_dark.s8aV61bNWs.png",
+                "chart_share_title": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.chart_share_title.CQsczP1BjY.png",
+                "chart_share_logo": "https://rescdn.qqmail.com/weread/cover/ranklist.newbook.chart_share_logo.LKfLsvXOPl.png",
+                "chart_book_detial_icon": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.chart_book_detial_icon.9mdfI2l2wU.png",
+                "chart_tag": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.chart_tag.yRGcg5vJI2.png",
+                "eink_chart_title": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.eink_chart_title.CvRJLa24MK.png",
+                "chart_title_main": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.chart_title_main.ipXu36pNZV.png",
+                "chart_detail_title_main": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.chart_detail_title_main.fmIjHOplcf.png",
+                "chart_detail_title_dark_main": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.newbook.chart_detail_title_dark_main.kWjokA5xNW.png",
+                "chart_background_color_1": "#FF6F3C",
+                "chart_background_color_2": "#FFB341",
                 "chart_title_height": 96,
-                "chart_title_width": 471,
-                "desc": "微信读书用户最喜爱的出版书"
+                "chart_title_width": 612,
+                "desc": "最近 90 天出版的热门书籍"
             }
         },
         "copyrightInfo": {
@@ -1708,111 +1384,111 @@
             }
         ],
         "coverBoxInfo": {
-            "blurhash": "KGRymHD*~qofoeof-;ofIU",
+            "blurhash": "KDLhFqof9DofayWARjayoN",
             "colors": [
                 {
                     "key": "6/4",
-                    "hex": "#95938d"
+                    "hex": "#8e9965"
                 },
                 {
                     "key": "4/4",
-                    "hex": "#62605a"
+                    "hex": "#5a6536"
                 },
                 {
                     "key": "3/4",
-                    "hex": "#494743"
+                    "hex": "#414c23"
                 },
                 {
                     "key": "3/6",
-                    "hex": "#494743"
+                    "hex": "#3e4e07"
                 },
                 {
                     "key": "3/8",
-                    "hex": "#494743"
+                    "hex": "#3a4f00"
                 },
                 {
                     "key": "2/4",
-                    "hex": "#32312d"
+                    "hex": "#2b3510"
                 },
                 {
                     "key": "2/6",
-                    "hex": "#32312d"
+                    "hex": "#263700"
                 },
                 {
                     "key": "2/8",
-                    "hex": "#32312d"
+                    "hex": "#203800"
                 },
                 {
                     "key": "1/4",
-                    "hex": "#1e1c18"
+                    "hex": "#132100"
                 },
                 {
                     "key": "1/6",
-                    "hex": "#1e1c18"
+                    "hex": "#0f2200"
                 },
                 {
                     "key": "1/8",
-                    "hex": "#1e1c18"
+                    "hex": "#0a2300"
                 },
                 {
                     "key": "6/6",
-                    "hex": "#95938d"
+                    "hex": "#8b9b4c"
                 },
                 {
                     "key": "4/6",
-                    "hex": "#62605a"
+                    "hex": "#57671d"
                 },
                 {
                     "key": "9/2",
-                    "hex": "#e5e3db"
+                    "hex": "#e1e6c4"
                 },
                 {
                     "key": "4/10",
-                    "hex": "#62605a"
+                    "hex": "#516900"
                 },
                 {
                     "key": "5/10",
-                    "hex": "#7b7974"
+                    "hex": "#6b8400"
                 },
                 {
                     "key": "5/4",
-                    "hex": "#7b7974"
+                    "hex": "#747f4e"
                 },
                 {
                     "key": "8/4",
-                    "hex": "#cac8c1"
+                    "hex": "#c4ce94"
                 },
                 {
                     "key": "5/8",
-                    "hex": "#7b7974"
+                    "hex": "#6e8211"
                 },
                 {
                     "key": "6/8",
-                    "hex": "#95938d"
+                    "hex": "#889d2d"
                 },
                 {
                     "key": "8/6",
-                    "hex": "#cac8c1"
+                    "hex": "#c1d07b"
                 },
                 {
                     "key": "7/8",
-                    "hex": "#afada7"
+                    "hex": "#a3b749"
                 },
                 {
                     "key": "3/12",
-                    "hex": "#494743"
+                    "hex": "#315200"
                 },
                 {
                     "key": "9/12",
-                    "hex": "#e5e3db"
+                    "hex": "#d4f125"
                 },
                 {
                     "key": "1/100",
-                    "hex": "#95938d"
+                    "hex": "#889d2d"
                 },
                 {
                     "key": "2/100",
-                    "hex": "#afada7"
+                    "hex": "#a3b749"
                 },
                 {
                     "key": "3/100",
@@ -1820,106 +1496,116 @@
                 },
                 {
                     "key": "4/100",
-                    "hex": "#F3F1E5"
+                    "hex": "#EFF3E5"
                 },
                 {
                     "key": "5/100",
-                    "hex": "#F3F1E5"
+                    "hex": "#EFF3E5"
                 },
                 {
                     "key": "6/100",
-                    "hex": "#271E00"
+                    "hex": "#222700"
                 }
             ],
             "dominate_color": {
-                "hex": "#f4f2ea",
+                "hex": "#b4bc8f",
                 "hsv": [
-                    48.43745971657866,
-                    3.924718172580001,
-                    95.67654792548922
+                    70.08731632842539,
+                    23.9740670812972,
+                    73.5978083814601
                 ]
             },
-            "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/955/3300030955/s_3300030955.jpg",
-            "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/955/3300030955/s_3300030955.jpg"
-        },
-        "skuInfo": {
-            "miniProgramId": "gh_78fd80800407",
-            "path": "/pages/product/product?pid=29458883&unionid=P-123456m"
+            "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/147/3300103147/s_3300103147.jpg",
+            "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/147/3300103147/s_3300103147.jpg"
         },
         "shortTimeRead": {
             "active": 0
         },
         "AISummary": "",
-        "finishedBookCount": 26,
-        "finishedBookIndex": 25,
-        "finishedDate": 1666622465,
+        "finishedBookCount": 27,
+        "finishedBookIndex": 27,
+        "finishedDate": 1724601621,
         "readingBookCount": 108,
-        "readingBookDate": 1666154344,
-        "readingProgress": 98,
-        "readingReviewId": "R_19208111_3300030955",
+        "readingBookDate": 1721718472,
+        "readingProgress": 100,
+        "readingReviewId": "R_19208111_3300103147",
         "canCancelReadstatus": 0,
         "markedStatus": 4,
-        "readingTime": 14182,
-        "totalReadDay": 7,
+        "readingTime": 15983,
+        "totalReadDay": 10,
         "recordReadingTime": 0,
-        "continueReadDays": 3,
-        "continueBeginDate": 1666108800,
-        "continueEndDate": 1666281600,
+        "deepestNightReadTime": 1724522984,
+        "continueReadDays": 10,
+        "continueBeginDate": 1723824000,
+        "continueEndDate": 1724601600,
         "showSummary": 1,
         "showDetail": 1,
         "readDetail": {
-            "totalReadingTime": 14182,
-            "totalReadDay": 7,
-            "continueReadDays": 3,
-            "continueBeginDate": 1666108800,
-            "continueEndDate": 1666281600,
-            "beginReadingDate": 1666154344,
-            "lastReadingDate": 1700323200,
-            "longestReadingDate": 1666540800,
-            "avgReadingTime": 2026,
-            "longestReadingTime": 6266,
+            "totalReadingTime": 15983,
+            "totalReadDay": 10,
+            "continueReadDays": 10,
+            "continueBeginDate": 1723824000,
+            "continueEndDate": 1724601600,
+            "deepestNightReadDate": 1724522984,
+            "beginReadingDate": 1721718472,
+            "lastReadingDate": 1724601600,
+            "longestReadingDate": 1724515200,
+            "avgReadingTime": 1598,
+            "longestReadingTime": 4428,
             "data": [
                 {
-                    "readDate": 1666108800,
-                    "readTime": 3074
+                    "readDate": 1723824000,
+                    "readTime": 2129
                 },
                 {
-                    "readDate": 1666195200,
-                    "readTime": 114
+                    "readDate": 1723910400,
+                    "readTime": 1861
                 },
                 {
-                    "readDate": 1666281600,
-                    "readTime": 495
+                    "readDate": 1723996800,
+                    "readTime": 990
                 },
                 {
-                    "readDate": 1666454400,
-                    "readTime": 4120
+                    "readDate": 1724083200,
+                    "readTime": 810
                 },
                 {
-                    "readDate": 1666540800,
-                    "readTime": 6266
+                    "readDate": 1724169600,
+                    "readTime": 170
                 },
                 {
-                    "readDate": 1666886400,
-                    "readTime": 65
+                    "readDate": 1724256000,
+                    "readTime": 2843
                 },
                 {
-                    "readDate": 1700323200,
-                    "readTime": 163
+                    "readDate": 1724342400,
+                    "readTime": 60
+                },
+                {
+                    "readDate": 1724428800,
+                    "readTime": 2266
+                },
+                {
+                    "readDate": 1724515200,
+                    "readTime": 4428
+                },
+                {
+                    "readDate": 1724601600,
+                    "readTime": 374
                 }
             ]
         },
-        "noteCount": 18,
-        "reviewCount": 0,
-        "underlineCount": 18,
+        "noteCount": 9,
+        "reviewCount": 1,
+        "underlineCount": 8,
         "markCount": 0,
         "bookInfo": {
-            "bookId": "3300030955",
-            "title": "命运",
+            "bookId": "3300103147",
+            "title": "草民",
             "author": "蔡崇达",
-            "intro": "《命运》是蔡崇达继《皮囊》之后，时隔八年潜心创作的长篇小说。\r\n《皮囊》里的那句“皮囊是拿来用的，不是拿来伺候的。”正是出自《命运》的主人公，阿太之口。《命运》以九十九岁的她一生的故事为主线，串联起福建闽南沿海小镇几代人的人生故事、命运选择与时代浮沉。\r\n全书以阿太的五段回忆，切入时间长河中人们不得不直面的一个个本质命题：\r\n层层浪：你们就此没有过去，只有将来——\r\n当原本稳固的活法被打碎，给人庇护的传统秩序被割裂，陷入巨大无常中的一个个单薄的人，要如何活下去？内心的安宁要放置在何处？\r\n海上土：灵感是浮游在海上的土——\r\n羁绊和意义是人心灵的压舱石，当生活的浪头打过来时不至于被掀翻。阿太生命中那些失去了压舱石的人，被命运一个个顺水推舟地带走了。而此时的她，尚只有十六岁。\r\n田里花：想结果的花，都早早低头——\r\n背负着“无子无孙无儿送终”的命运预言，她成了亲，有了婆家与丈夫，抱养了孩子。但见过命运的人会明白，命运的激流从未停止，人在其中并不知晓，哪一次告别，就是诀别。\r\n厕中佛：腐烂之地，神明之所——\r\n时代的巨浪之下，如何守住内心的清明与信仰？这世上容易的活法，就是为别人而活。而如果那人恰好也是为你而活，那么日子再苦，也过得像地瓜一样甜了。\r\n天顶孔：要么入土为安，要么向天开枪——\r\n阿太的故事走到了落幕时分，死亡成了她亲密的旧友。她终是生下了自己的命运，成为自己命运的母亲。这人间她来过，她永不再回。",
-            "cover": "https://cdn.weread.qq.com/weread/cover/46/cpPlatform_tEnsXcTvcuE69ZuvviMknD/s_cpPlatform_tEnsXcTvcuE69ZuvviMknD.jpg",
-            "version": 1835708567,
+            "intro": "《草民》是蔡崇达继《皮囊》《命运》之后全新的中短篇小说集，故乡三部曲收官力作。不同于刻骨铭心的散文集《皮囊》，催人泪下的长篇小说《命运》；《草民》以贴近大地的风格，回望闽南东石镇这一充满温情与历史的故土，聚焦如野草般坚韧的人们——“我们为什么生生不息，我们凭什么生生不息。”\n全书讲述了7个神性与人性交织的玄妙故事。以人物群像的手法，展开老中青三代乡亲的感人故事，共同编织成一支生生不息的东石镇生命之歌。每个人能从《草民》中看见自己或身边人的影子——失意的中年男子、迷茫的年轻人、奋力托举后代的母亲们……他们身上的坚韧和生命力，正是这个迷茫而充满无常的当下，我们所需要的昂扬能量。每一种挣扎都是伟大的，每一个拼命挣扎的人都值得被看到。即使生如草芥，也当有名有姓。谁都是草民，谁也是自己的英雄。\n读完《草民》，有读者说：这本书好像告诉我——我知道你的来处，我熟知你的底色，我理解你的感受。如果你也时常想念家乡、却又飘零在外，推荐你看《草民》——每一个离散的无根之人都能在这本书中找到心的栖息地。一本书欢迎你回家。",
+            "cover": "https://cdn.weread.qq.com/weread/cover/64/cpplatform_wrilau5wukgvbfsmzafchn/s_cpplatform_wrilau5wukgvbfsmzafchn1719297962.jpg",
+            "version": 742026492,
             "format": "epub",
             "type": 0,
             "soldout": 0,
@@ -1931,476 +1617,90 @@
             "ispub": 1,
             "extra_type": 5,
             "cpid": -3319053,
-            "publishTime": "2022-09-01 00:00:00",
-            "lastChapterIdx": 11,
+            "publishTime": "2024-05-01 00:00:00",
+            "lastChapterIdx": 14,
             "paperBook": {
                 "skuId": ""
             },
             "centPrice": 5980,
-            "readingCount": 1704,
-            "copyrightChapterUids": [
-                12
-            ],
-            "blockSaveImg": 0,
-            "language": "zh-CN",
-            "hideUpdateTime": false,
-            "isEPUBComics": 0,
-            "selfProduceIncentive": false,
-            "webBookControl": 0
-        },
-        "totalReadingTime": 14182,
-        "beginReadingDate": 1666154344,
-        "lastReadingDate": 1700323200,
-        "longestReadingDate": 1666540800,
-        "avgReadingTime": 2026,
-        "longestReadingTime": 6266,
-        "data": [
-            {
-                "readDate": 1666108800,
-                "readTime": 3074
-            },
-            {
-                "readDate": 1666195200,
-                "readTime": 114
-            },
-            {
-                "readDate": 1666281600,
-                "readTime": 495
-            },
-            {
-                "readDate": 1666454400,
-                "readTime": 4120
-            },
-            {
-                "readDate": 1666540800,
-                "readTime": 6266
-            },
-            {
-                "readDate": 1666886400,
-                "readTime": 65
-            },
-            {
-                "readDate": 1700323200,
-                "readTime": 163
-            }
-        ],
-        "readingCount": 1704,
-        "阅读进度": 1.0,
-        "阅读状态": "已读",
-        "阅读时长": 14182,
-        "阅读天数": 7,
-        "评分": 940,
-        "我的评分": "未评分",
-        "时间": 1666622465,
-        "开始阅读时间": 1666154344,
-        "最后阅读时间": 1700323200,
-        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/11e6f826d4-5be8-4753-a129-6f648c048ca3.jpg",
-        "书名": "命运",
-        "BookId": "3300030955",
-        "ISBN": "9787533969608",
-        "链接": "https://weread.qq.com/web/reader/0e932260813ab7297g01583b",
-        "简介": "《命运》是蔡崇达继《皮囊》之后，时隔八年潜心创作的长篇小说。\r\n《皮囊》里的那句“皮囊是拿来用的，不是拿来伺候的。”正是出自《命运》的主人公，阿太之口。《命运》以九十九岁的她一生的故事为主线，串联起福建闽南沿海小镇几代人的人生故事、命运选择与时代浮沉。\r\n全书以阿太的五段回忆，切入时间长河中人们不得不直面的一个个本质命题：\r\n层层浪：你们就此没有过去，只有将来——\r\n当原本稳固的活法被打碎，给人庇护的传统秩序被割裂，陷入巨大无常中的一个个单薄的人，要如何活下去？内心的安宁要放置在何处？\r\n海上土：灵感是浮游在海上的土——\r\n羁绊和意义是人心灵的压舱石，当生活的浪头打过来时不至于被掀翻。阿太生命中那些失去了压舱石的人，被命运一个个顺水推舟地带走了。而此时的她，尚只有十六岁。\r\n田里花：想结果的花，都早早低头——\r\n背负着“无子无孙无儿送终”的命运预言，她成了亲，有了婆家与丈夫，抱养了孩子。但见过命运的人会明白，命运的激流从未停止，人在其中并不知晓，哪一次告别，就是诀别。\r\n厕中佛：腐烂之地，神明之所——\r\n时代的巨浪之下，如何守住内心的清明与信仰？这世上容易的活法，就是为别人而活。而如果那人恰好也是为你而活，那么日子再苦，也过得像地瓜一样甜了。\r\n天顶孔：要么入土为安，要么向天开枪——\r\n阿太的故事走到了落幕时分，死亡成了她亲密的旧友。她终是生下了自己的命运，成为自己命运的母亲。这人间她来过，她永不再回。",
-        "作者": "蔡崇达",
-        "分类": "精品小说-社会小说"
-    },
-    {
-        "bookId": "3300086356",
-        "title": "躲在蚊子后面的大象",
-        "author": "[德]恩斯特弗里德·哈尼希   [德]爱娃·温德勒",
-        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/f25dbd00-f5c3-4bae-83e3-df8b93594f82.jpg",
-        "version": 1032603185,
-        "format": "epub",
-        "type": 0,
-        "price": 24.9,
-        "originalPrice": 0,
-        "soldout": 0,
-        "bookStatus": 1,
-        "payType": 1048577,
-        "intro": "“没有人会无缘无故陷入情绪困扰，在这本书中，我将结合多年来的心理咨询经验，教你如何走出困境，帮助你找到心理平衡。亲爱的读者，希望这些内容能对你有所帮助，为你的生活带来正向的改变。”——本书作者 恩斯特弗利德·哈尼希\n　看起来像「蚊子」一样小的事，背后的情绪却有如「大象」一样大。阅读这本书就像是亲身经历了一场疗愈之旅，我们得以从情绪中找到勇气，找到突破僵局的方法。每个人都有属于自己的蚊子和大象，而经过这场疗愈之旅，大象将会走出蚊子的背后，找回属于自己的平静。",
-        "centPrice": 2490,
-        "finished": 1,
-        "maxFreeChapter": 7,
-        "maxFreeInfo": {
-            "maxFreeChapterIdx": 7,
-            "maxFreeChapterUid": 7,
-            "maxFreeChapterRatio": 78
-        },
-        "free": 0,
-        "mcardDiscount": 0,
-        "ispub": 1,
-        "extra_type": 5,
-        "cpid": -60041,
-        "publishTime": "2024-01-11 00:00:00",
-        "category": "心理-心理学应用",
-        "categories": [
-            {
-                "categoryId": 800000,
-                "subCategoryId": 800005,
-                "categoryType": 0,
-                "title": "心理-心理学应用"
-            }
-        ],
-        "hasLecture": 1,
-        "lastChapterIdx": 28,
-        "paperBook": {
-            "skuId": ""
-        },
-        "copyrightChapterUids": [
-            2
-        ],
-        "hasKeyPoint": true,
-        "blockSaveImg": 0,
-        "language": "zh",
-        "hideUpdateTime": false,
-        "isEPUBComics": 0,
-        "webBookControl": 0,
-        "selfProduceIncentive": false,
-        "payingStatus": 2,
-        "chapterSize": 28,
-        "updateTime": 1707123588,
-        "onTime": 1709222400,
-        "lastChapterCreateTime": 1707120447,
-        "unitPrice": 0,
-        "marketType": 0,
-        "isbn": "9787516837375",
-        "publisher": "台海出版公司",
-        "totalWords": 73663,
-        "bookSize": 285778,
-        "shouldHideTTS": 0,
-        "recommended": 0,
-        "lectureRecommended": 0,
-        "follow": 0,
-        "secret": 0,
-        "offline": 0,
-        "lectureOffline": 0,
-        "finishReading": 0,
-        "hideReview": 0,
-        "hideFriendMark": 0,
-        "blacked": 0,
-        "isAutoPay": 0,
-        "availables": 0,
-        "paid": 0,
-        "isChapterPaid": 0,
-        "showLectureButton": 1,
-        "wxtts": 1,
-        "ratingCount": 1435,
-        "ratingDetail": {
-            "one": 128,
-            "two": 0,
-            "three": 451,
-            "four": 1,
-            "five": 855,
-            "recent": 758
-        },
-        "newRating": 748,
-        "newRatingCount": 1260,
-        "deepVRating": 552,
-        "newRatingDetail": {
-            "good": 761,
-            "fair": 411,
-            "poor": 88,
-            "recent": 694,
-            "deepV": 353,
-            "myRating": "",
-            "title": "值得一读"
-        },
-        "ranklist": {},
-        "copyrightInfo": {
-            "id": -60041,
-            "name": "磨铁数盟",
-            "userVid": 351681843,
-            "role": 2,
-            "avatar": "https://res.weread.qq.com/wravatar/WV0017-cUI0kK2KX6ntOCxNQl7Jnb9/0",
-            "cpType": 0
-        },
-        "authorSeg": [
-            {
-                "words": "[德]",
-                "highlight": 0
-            },
-            {
-                "words": "恩斯特弗里德·哈尼希",
-                "highlight": 1,
-                "authorId": "2351018"
-            },
-            {
-                "words": "   [德]",
-                "highlight": 0
-            },
-            {
-                "words": "爱娃·温德勒",
-                "highlight": 1,
-                "authorId": "2351019"
-            }
-        ],
-        "coverBoxInfo": {
-            "blurhash": "KIS6MZS8_4x_sjo#tSbdMv",
-            "colors": [
-                {
-                    "key": "6/4",
-                    "hex": "#99928d"
-                },
-                {
-                    "key": "4/4",
-                    "hex": "#655f5a"
-                },
-                {
-                    "key": "3/4",
-                    "hex": "#4c4642"
-                },
-                {
-                    "key": "3/6",
-                    "hex": "#4c4642"
-                },
-                {
-                    "key": "3/8",
-                    "hex": "#4c4642"
-                },
-                {
-                    "key": "2/4",
-                    "hex": "#35302c"
-                },
-                {
-                    "key": "2/6",
-                    "hex": "#35302c"
-                },
-                {
-                    "key": "2/8",
-                    "hex": "#35302c"
-                },
-                {
-                    "key": "1/4",
-                    "hex": "#211b18"
-                },
-                {
-                    "key": "1/6",
-                    "hex": "#211b18"
-                },
-                {
-                    "key": "1/8",
-                    "hex": "#211b18"
-                },
-                {
-                    "key": "6/6",
-                    "hex": "#99928d"
-                },
-                {
-                    "key": "4/6",
-                    "hex": "#655f5a"
-                },
-                {
-                    "key": "9/2",
-                    "hex": "#e8e2db"
-                },
-                {
-                    "key": "4/10",
-                    "hex": "#655f5a"
-                },
-                {
-                    "key": "5/10",
-                    "hex": "#7f7873"
-                },
-                {
-                    "key": "5/4",
-                    "hex": "#7f7873"
-                },
-                {
-                    "key": "8/4",
-                    "hex": "#cdc7c1"
-                },
-                {
-                    "key": "5/8",
-                    "hex": "#7f7873"
-                },
-                {
-                    "key": "6/8",
-                    "hex": "#99928d"
-                },
-                {
-                    "key": "8/6",
-                    "hex": "#cdc7c1"
-                },
-                {
-                    "key": "7/8",
-                    "hex": "#b3aca7"
-                },
-                {
-                    "key": "3/12",
-                    "hex": "#4c4642"
-                },
-                {
-                    "key": "9/12",
-                    "hex": "#e8e2db"
-                },
-                {
-                    "key": "1/100",
-                    "hex": "#99928d"
-                },
-                {
-                    "key": "2/100",
-                    "hex": "#b3aca7"
-                },
-                {
-                    "key": "3/100",
-                    "hex": "#ffffff"
-                },
-                {
-                    "key": "4/100",
-                    "hex": "#F3EDE5"
-                },
-                {
-                    "key": "5/100",
-                    "hex": "#F3EDE5"
-                },
-                {
-                    "key": "6/100",
-                    "hex": "#271300"
-                }
-            ],
-            "dominate_color": {
-                "hex": "#cac4be",
-                "hsv": [
-                    31.21811759491868,
-                    5.935374149659864,
-                    79.02515589569161
-                ]
-            },
-            "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/356/3300086356/s_3300086356.jpg",
-            "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/356/3300086356/s_3300086356.jpg"
-        },
-        "shortTimeRead": {
-            "active": 0
-        },
-        "AISummary": "这是一本深入探讨情绪产生的原因和深层含义，并揭示人们面对各种情况时，为何会产生不同的情绪反应的书籍。作者恩斯特弗里德·哈尼希通过生动的实例向我们展示了该如何应对突然爆发的情绪，并让自己重新恢复内心的平静。\n\n这本书还深入探讨了日常生活中的压力事件，揭示了这些事件背后的深层心理因素。例如，彼得可能觉得他的袜子问题只是小事一桩，不值得大惊小怪。然而，对于安娜来说，这可能意味着她需要更多的关注和尊重。这种个人化处理模式，就像是把小事看成了大象，从而放大了问题的严重性。\n\n此外，这本书还详细解析了需求受挫与大象的形成，主要讲述的是人们在生活中遇到各种挫折和困难时，如何形成一种自我保护的心理机制，这种机制通常表现为一种固定的思维模式或行为习惯，就像一头大象一样，虽然体积庞大，但却常常被我们忽视。\n\n本书还进一步阐述了基本需求的分类和满足程度，以及核心需求与生活质量的关系。这些内容可以帮助我们更好地理解自己的需求和需求之间的关系，从而更好地调整自己的生活方向。\n\n在探讨需求满足度与自尊的关系时，作者指出，当人们的基本需求得到满足时，他们的自尊会得到提升，从而使他们能够更好地应对生活中的挑战，建立满意的人际关系，并实现个人潜力的最大化。\n\n本书还深入探讨了自我关注与生活质量的关系，以及需求四方形的应用与改善。这些内容可以帮助我们更好地理解自己的需求和需求之间的关系，从而更好地调整自己的生活方向。",
-        "finishedBookCount": 26,
-        "readingBookCount": 108,
-        "readingBookIndex": 107,
-        "readingBookDate": 1721402215,
-        "readingProgress": 24,
-        "readingReviewId": "R_19208111_3300086356",
-        "canCancelReadstatus": 0,
-        "markedStatus": 2,
-        "readingTime": 2751,
-        "totalReadDay": 4,
-        "recordReadingTime": 0,
-        "deepestNightReadTime": 1721581183,
-        "continueReadDays": 4,
-        "continueBeginDate": 1721318400,
-        "continueEndDate": 1721577600,
-        "showSummary": 1,
-        "showDetail": 1,
-        "readDetail": {
-            "totalReadingTime": 2751,
-            "totalReadDay": 4,
-            "continueReadDays": 4,
-            "continueBeginDate": 1721318400,
-            "continueEndDate": 1721577600,
-            "deepestNightReadDate": 1721581183,
-            "beginReadingDate": 1721402215,
-            "lastReadingDate": 1721577600,
-            "longestReadingDate": 1721318400,
-            "avgReadingTime": 687,
-            "longestReadingTime": 1135,
-            "data": [
-                {
-                    "readDate": 1721318400,
-                    "readTime": 1135
-                },
-                {
-                    "readDate": 1721404800,
-                    "readTime": 282
-                },
-                {
-                    "readDate": 1721491200,
-                    "readTime": 240
-                },
-                {
-                    "readDate": 1721577600,
-                    "readTime": 1092
-                }
-            ]
-        },
-        "noteCount": 10,
-        "reviewCount": 0,
-        "underlineCount": 10,
-        "markCount": 0,
-        "bookInfo": {
-            "bookId": "3300086356",
-            "title": "躲在蚊子后面的大象",
-            "author": "[德]恩斯特弗里德·哈尼希   [德]爱娃·温德勒",
-            "intro": "“没有人会无缘无故陷入情绪困扰，在这本书中，我将结合多年来的心理咨询经验，教你如何走出困境，帮助你找到心理平衡。亲爱的读者，希望这些内容能对你有所帮助，为你的生活带来正向的改变。”——本书作者 恩斯特弗利德·哈尼希\n　看起来像「蚊子」一样小的事，背后的情绪却有如「大象」一样大。阅读这本书就像是亲身经历了一场疗愈之旅，我们得以从情绪中找到勇气，找到突破僵局的方法。每个人都有属于自己的蚊子和大象，而经过这场疗愈之旅，大象将会走出蚊子的背后，找回属于自己的平静。",
-            "cover": "https://cdn.weread.qq.com/weread/cover/2/cpplatform_dcnmsj225vbjrgvdrd9rqp/s_cpplatform_dcnmsj225vbjrgvdrd9rqp1707120440.jpg",
-            "version": 1032603185,
-            "format": "epub",
-            "type": 0,
-            "soldout": 0,
-            "bookStatus": 1,
-            "payType": 1048577,
-            "finished": 1,
-            "free": 0,
-            "mcardDiscount": 0,
-            "ispub": 1,
-            "extra_type": 5,
-            "cpid": -60041,
-            "publishTime": "2024-01-11 00:00:00",
-            "lastChapterIdx": 28,
-            "paperBook": {
-                "skuId": ""
-            },
-            "centPrice": 2490,
-            "readingCount": 2710,
+            "readingCount": 1735,
             "copyrightChapterUids": [
                 2
             ],
             "blockSaveImg": 0,
-            "language": "zh",
+            "language": "zh-wr",
             "hideUpdateTime": false,
             "isEPUBComics": 0,
             "selfProduceIncentive": false,
             "webBookControl": 0
         },
-        "totalReadingTime": 2751,
-        "deepestNightReadDate": 1721581183,
-        "beginReadingDate": 1721402215,
-        "lastReadingDate": 1721577600,
-        "longestReadingDate": 1721318400,
-        "avgReadingTime": 687,
-        "longestReadingTime": 1135,
+        "totalReadingTime": 15983,
+        "deepestNightReadDate": 1724522984,
+        "beginReadingDate": 1721718472,
+        "lastReadingDate": 1724601600,
+        "longestReadingDate": 1724515200,
+        "avgReadingTime": 1598,
+        "longestReadingTime": 4428,
         "data": [
             {
-                "readDate": 1721318400,
-                "readTime": 1135
+                "readDate": 1723824000,
+                "readTime": 2129
             },
             {
-                "readDate": 1721404800,
-                "readTime": 282
+                "readDate": 1723910400,
+                "readTime": 1861
             },
             {
-                "readDate": 1721491200,
-                "readTime": 240
+                "readDate": 1723996800,
+                "readTime": 990
             },
             {
-                "readDate": 1721577600,
-                "readTime": 1092
+                "readDate": 1724083200,
+                "readTime": 810
+            },
+            {
+                "readDate": 1724169600,
+                "readTime": 170
+            },
+            {
+                "readDate": 1724256000,
+                "readTime": 2843
+            },
+            {
+                "readDate": 1724342400,
+                "readTime": 60
+            },
+            {
+                "readDate": 1724428800,
+                "readTime": 2266
+            },
+            {
+                "readDate": 1724515200,
+                "readTime": 4428
+            },
+            {
+                "readDate": 1724601600,
+                "readTime": 374
             }
         ],
-        "readingCount": 2710,
-        "阅读进度": 0.24,
-        "阅读状态": "在读",
-        "阅读时长": 2751,
-        "阅读天数": 4,
-        "评分": 748,
-        "时间": 1721577600,
-        "开始阅读时间": 1721402215,
-        "最后阅读时间": 1721577600,
-        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/f25dbd00-f5c3-4bae-83e3-df8b93594f82.jpg",
-        "书名": "躲在蚊子后面的大象",
-        "BookId": "3300086356",
-        "ISBN": "9787516837375",
-        "链接": "https://weread.qq.com/web/reader/bfc32800813ab883bg0165f3",
-        "简介": "“没有人会无缘无故陷入情绪困扰，在这本书中，我将结合多年来的心理咨询经验，教你如何走出困境，帮助你找到心理平衡。亲爱的读者，希望这些内容能对你有所帮助，为你的生活带来正向的改变。”——本书作者 恩斯特弗利德·哈尼希\n　看起来像「蚊子」一样小的事，背后的情绪却有如「大象」一样大。阅读这本书就像是亲身经历了一场疗愈之旅，我们得以从情绪中找到勇气，找到突破僵局的方法。每个人都有属于自己的蚊子和大象，而经过这场疗愈之旅，大象将会走出蚊子的背后，找回属于自己的平静。",
-        "作者": "[德]恩斯特弗里德·哈尼希   [德]爱娃·温德勒",
-        "分类": "心理-心理学应用"
+        "readingCount": 1735,
+        "阅读进度": 1.0,
+        "阅读状态": "已读",
+        "阅读时长": 15983,
+        "阅读天数": 10,
+        "评分": 890,
+        "我的评分": "⭐️⭐️⭐️⭐️⭐️",
+        "时间": 1724601621,
+        "开始阅读时间": 1721718472,
+        "最后阅读时间": 1724601600,
+        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/c13cbd7c-3b76-47cb-a7ee-3505f37fbe7e.jpg",
+        "书名": "草民",
+        "BookId": "3300103147",
+        "ISBN": "9787546237381",
+        "链接": "https://weread.qq.com/web/reader/370329a0813ab8ecag017dd1",
+        "简介": "《草民》是蔡崇达继《皮囊》《命运》之后全新的中短篇小说集，故乡三部曲收官力作。不同于刻骨铭心的散文集《皮囊》，催人泪下的长篇小说《命运》；《草民》以贴近大地的风格，回望闽南东石镇这一充满温情与历史的故土，聚焦如野草般坚韧的人们——“我们为什么生生不息，我们凭什么生生不息。”\n全书讲述了7个神性与人性交织的玄妙故事。以人物群像的手法，展开老中青三代乡亲的感人故事，共同编织成一支生生不息的东石镇生命之歌。每个人能从《草民》中看见自己或身边人的影子——失意的中年男子、迷茫的年轻人、奋力托举后代的母亲们……他们身上的坚韧和生命力，正是这个迷茫而充满无常的当下，我们所需要的昂扬能量。每一种挣扎都是伟大的，每一个拼命挣扎的人都值得被看到。即使生如草芥，也当有名有姓。谁都是草民，谁也是自己的英雄。\n读完《草民》，有读者说：这本书好像告诉我——我知道你的来处，我熟知你的底色，我理解你的感受。如果你也时常想念家乡、却又飘零在外，推荐你看《草民》——每一个离散的无根之人都能在这本书中找到心的栖息地。一本书欢迎你回家。",
+        "作者": "蔡崇达",
+        "分类": "精品小说-社会小说"
     },
     {
         "bookId": "45064997",
@@ -2674,10 +1974,11 @@
             "active": 0
         },
         "AISummary": "这是一本深入探讨分心问题的著作，作者尼尔·埃亚尔通过大量的观察和研究，揭示了驱使我们分心的隐藏心理——逃避眼前的不适。在书中，埃亚尔认为，产品并不是问题的根源，任何可以抚慰不适的东西都具有潜在致瘾性。他提出，上瘾是一种习惯，专注也是一种习惯，时间管理的本质是疼痛管理，只要我们掌握了触发分心的原因，从内部和外部两个方面共同发力，通过科学的训练，我们每个人都可以养成好的时间观和执行力，从而获得更好、更高效的生活和工作。\n\n书中详细分析了分心的根本原因，包括工作压力、努力与回报失衡、对工作的控制感缺失等。作者指出，我们所有行为出现的根本原因都是为了逃避不适。因此，时间管理的本质就是疼痛管理。此外，书中还详细分析了外部触发因素的影响，包括手机铃声、别人的打扰等。作者提出，我们需要学会管理外部触发因素，如手机铃声、别人的打扰等。\n\n在书中，作者还提出了解决拖延问题的方法，包括发出你的声音很重要，以及营造心理安全的工作环境。作者认为，解决拖延问题需要从改变工作环境和提升心理安全感入手。通过定期讨论团队和个人的成就、错误以及需要改进的地方，可以提升心理安全感。同时，公开讨论问题，让员工有机会表达自己的观点和担忧，也是解决拖延问题的重要方法。",
-        "finishedBookCount": 26,
+        "finishedBookCount": 27,
+        "readingBookDate": 1724602997,
         "canCancelReadstatus": 1,
         "markedStatus": 1,
-        "readingTime": 0,
+        "readingTime": 34,
         "recordReadingTime": 0,
         "showSummary": 0,
         "showDetail": 0,
@@ -2706,7 +2007,7 @@
                 "skuId": ""
             },
             "centPrice": 4830,
-            "readingCount": 4,
+            "readingCount": 5,
             "copyrightChapterUids": [
                 2
             ],
@@ -2717,13 +2018,13 @@
             "selfProduceIncentive": false,
             "webBookControl": 0
         },
-        "readingCount": 4,
+        "readingCount": 5,
         "阅读进度": 0.0,
         "阅读状态": "想读",
-        "阅读时长": 0,
+        "阅读时长": 34,
         "阅读天数": null,
         "评分": 648,
-        "时间": null,
+        "时间": 1724602997,
         "开始阅读时间": null,
         "最后阅读时间": null,
         "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/120f5e1642-71c0-4e8b-9219-8f0b15f3949d.jpg",
@@ -2736,51 +2037,50 @@
         "分类": "个人成长-认知思维"
     },
     {
-        "bookId": "43697528",
-        "title": "我们为什么要睡觉？",
-        "author": "马修·沃克",
-        "translator": "田盈春",
-        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/157efed796-bf34-49b9-b516-5997155f0097.jpg",
-        "version": 1475565887,
+        "bookId": "573922",
+        "title": "领导梯队：全面打造领导力驱动型公司",
+        "author": "查兰",
+        "translator": "徐中，林嵩，雷静",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/165417294a-695c-4b71-bc83-50e007ab2d30.jpg",
+        "version": 1150758902,
         "format": "epub",
         "type": 0,
-        "price": 36.0,
+        "price": 20.0,
         "originalPrice": 0,
         "soldout": 0,
         "bookStatus": 1,
         "payType": 1048577,
-        "intro": "你认为自己最近睡眠充足吗？你还记得上一次自然醒后神清气爽的感觉吗？不用怀疑，我们正在进入一个失眠已经成为流行病的时代。作为一名杰出的神经科学家，沃克对生物的睡眠行为充满好奇，这促使他成了睡眠研究方面的专家。本书中，他总结了人类有史以来的睡眠研究成果，以及前沿的科学突破，告诉我们睡眠的运行机制、睡眠不足的坏处、睡眠与做梦的有益功能，以及睡眠对专业人士个人能力提升的惊人影响。我们的身体健康、心理健康、情商智商、记忆力、运动力、学习力、生产力、创造力、吸引力，甚至食欲，这些让日间生活丰富多彩的能力，原来都与夜间那场睡眠有着密不可分的关系。现在，你知道我们为什么需要充足的睡眠了吧。打开这本书，看平凡的睡眠如何带来非凡的生命能量，顶尖科学对于睡眠的所有了解及如何睡好觉的诀窍都将在这部关于睡眠的“百科全书”中逐一揭晓。",
-        "centPrice": 3600,
+        "intro": "领导力发展的圣经，领导梯队模型已经在全球500强企业中普遍应用，是企业制定领导人才继任计划和培养各级领导人才的路径指南。能力与岗位的匹配，特别是各层级管理者的能力与岗位的匹配，是一个从未解决的老问题。员工的不能胜任很大程度上是由于“被提升”，责任更多在于人力部门，虽然员工本人未能主动寻求改进也是原因之一。本书通过对六个典型的管理层级最经常出现的问题，从领导技能、时间管理、工作理念三个方面进行了分析，提出了改进建议。企业要想获得成功，就必须在各个领导层级拥有出色的领导者。然而，企业内部培养领导人才的传统模式，常常缺乏系统性和完整性。本书有效地解决了上述问题，指导企业成功应对今天的商业环境带来的挑战。“领导梯队模型”源自通用电气等世界卓越企业的实践，对于企业制定领导人才继任计划和培养各级领导人才具有重要的指导作用。",
+        "centPrice": 2000,
         "finished": 1,
         "maxFreeChapter": 8,
         "maxFreeInfo": {
             "maxFreeChapterIdx": 8,
-            "maxFreeChapterUid": 37,
-            "maxFreeChapterRatio": 99
+            "maxFreeChapterUid": 32,
+            "maxFreeChapterRatio": 67
         },
         "free": 0,
         "mcardDiscount": 0,
         "ispub": 1,
-        "extra_type": 5,
-        "cpid": 9555120,
-        "publishTime": "2021-03-01 00:00:00",
-        "category": "科学技术-科学科普",
+        "extra_type": 1,
+        "cpid": 4157477,
+        "publishTime": "2011-07-01 00:00:00",
+        "category": "经济理财-管理",
         "categories": [
             {
-                "categoryId": 1500000,
-                "subCategoryId": 1500003,
+                "categoryId": 1100000,
+                "subCategoryId": 1100002,
                 "categoryType": 0,
-                "title": "科学技术-科学科普"
+                "title": "经济理财-管理"
             }
         ],
-        "hasLecture": 1,
-        "lPushName": "比尔•盖茨&中国睡眠大会秘书长作序推荐！",
-        "lastChapterIdx": 30,
+        "hasLecture": 0,
+        "lastChapterIdx": 25,
         "paperBook": {
-            "skuId": "12799689"
+            "skuId": "10708646"
         },
         "copyrightChapterUids": [
-            31
+            26
         ],
         "hasKeyPoint": true,
         "blockSaveImg": 0,
@@ -2790,16 +2090,17 @@
         "webBookControl": 0,
         "selfProduceIncentive": false,
         "payingStatus": 2,
-        "chapterSize": 30,
-        "updateTime": 1705428001,
-        "onTime": 1650510413,
-        "lastChapterCreateTime": 1705427105,
+        "chapterSize": 25,
+        "updateTime": 1711022486,
+        "onTime": 1453196169,
+        "lastChapterCreateTime": 1707152704,
         "unitPrice": 0,
         "marketType": 0,
-        "isbn": "9787559648600",
-        "publisher": "北京联合出版公司",
-        "totalWords": 237168,
-        "bookSize": 1685130,
+        "isbn": "9787111349341",
+        "publisher": "机械工业出版社",
+        "totalWords": 166323,
+        "publishPrice": 42.0,
+        "bookSize": 781919,
         "shouldHideTTS": 0,
         "recommended": 0,
         "lectureRecommended": 0,
@@ -2817,157 +2118,175 @@
         "isChapterPaid": 0,
         "showLectureButton": 1,
         "wxtts": 1,
-        "star": 86,
-        "ratingCount": 4052,
+        "star": 85,
+        "ratingCount": 1627,
         "ratingDetail": {
-            "one": 96,
-            "two": 0,
-            "three": 449,
-            "four": 3,
-            "five": 3503,
-            "recent": 197
+            "one": 35,
+            "two": 6,
+            "three": 138,
+            "four": 193,
+            "five": 1185,
+            "recent": 9
         },
-        "newRating": 866,
-        "newRatingCount": 3822,
-        "deepVRating": 886,
+        "newRating": 811,
+        "newRatingCount": 1421,
+        "deepVRating": 735,
         "newRatingDetail": {
-            "good": 3334,
-            "fair": 403,
-            "poor": 85,
-            "recent": 192,
-            "deepV": 878,
+            "good": 1150,
+            "fair": 242,
+            "poor": 29,
+            "recent": 9,
+            "deepV": 49,
             "myRating": "",
-            "title": "好评如潮"
+            "title": "脍炙人口"
         },
         "ranklist": {},
         "copyrightInfo": {
-            "id": 9555120,
-            "name": "后浪出版公司",
-            "userVid": 23226616,
-            "role": 2,
-            "avatar": "https://res.weread.qq.com/wravatar/WV0015-7hbK6oL7QSMtw8Kd331jea7/0",
+            "id": 4157477,
+            "name": "机械工业出版社",
+            "userVid": 0,
+            "role": 0,
+            "avatar": "",
             "cpType": 0
         },
         "authorSeg": [
             {
-                "words": "马修·沃克",
+                "words": "查兰",
                 "highlight": 1,
-                "authorId": "1148031"
+                "authorId": "412490"
             }
         ],
         "translatorSeg": [
             {
-                "words": "田盈春",
+                "words": "徐中",
                 "highlight": 1,
-                "authorId": "1641509"
+                "authorId": "866750"
+            },
+            {
+                "words": "，",
+                "highlight": 0
+            },
+            {
+                "words": "林嵩",
+                "highlight": 1,
+                "authorId": "345556"
+            },
+            {
+                "words": "，",
+                "highlight": 0
+            },
+            {
+                "words": "雷静",
+                "highlight": 1,
+                "authorId": "161488"
             }
         ],
         "coverBoxInfo": {
-            "blurhash": "KaDnFcofR.ozadofDNtRoI",
+            "blurhash": "KWF#X6ayIo16ayNG^ijsoJ",
             "colors": [
                 {
                     "key": "6/4",
-                    "hex": "#7898ac"
+                    "hex": "#ad8e68"
                 },
                 {
                     "key": "4/4",
-                    "hex": "#43647a"
+                    "hex": "#785b36"
                 },
                 {
                     "key": "3/4",
-                    "hex": "#274b63"
+                    "hex": "#5d4223"
                 },
                 {
                     "key": "3/6",
-                    "hex": "#004d6f"
+                    "hex": "#644009"
                 },
                 {
                     "key": "3/8",
-                    "hex": "#004e7c"
+                    "hex": "#683e00"
                 },
                 {
                     "key": "2/4",
-                    "hex": "#113449"
+                    "hex": "#442c0d"
                 },
                 {
                     "key": "2/6",
-                    "hex": "#003556"
+                    "hex": "#4b2900"
                 },
                 {
                     "key": "2/8",
-                    "hex": "#003763"
+                    "hex": "#4f2700"
                 },
                 {
                     "key": "1/4",
-                    "hex": "#001f34"
+                    "hex": "#311500"
                 },
                 {
                     "key": "1/6",
-                    "hex": "#00203f"
+                    "hex": "#391000"
                 },
                 {
                     "key": "1/8",
-                    "hex": "#00214b"
+                    "hex": "#400a00"
                 },
                 {
                     "key": "6/6",
-                    "hex": "#649aba"
+                    "hex": "#b78c50"
                 },
                 {
                     "key": "4/6",
-                    "hex": "#2c6686"
+                    "hex": "#7f5821"
                 },
                 {
                     "key": "9/2",
-                    "hex": "#d6e5ed"
+                    "hex": "#f2e1c8"
                 },
                 {
                     "key": "4/10",
-                    "hex": "#0069a1"
+                    "hex": "#885500"
                 },
                 {
                     "key": "5/10",
-                    "hex": "#0083bb"
+                    "hex": "#a66e00"
                 },
                 {
                     "key": "5/4",
-                    "hex": "#5d7e93"
+                    "hex": "#92744f"
                 },
                 {
                     "key": "8/4",
-                    "hex": "#aacde1"
+                    "hex": "#e2c399"
                 },
                 {
                     "key": "5/8",
-                    "hex": "#2881ad"
+                    "hex": "#a2701c"
                 },
                 {
                     "key": "6/8",
-                    "hex": "#4a9cc7"
+                    "hex": "#be8a37"
                 },
                 {
                     "key": "8/6",
-                    "hex": "#95cff0"
+                    "hex": "#edc181"
                 },
                 {
                     "key": "7/8",
-                    "hex": "#65b6e2"
+                    "hex": "#daa451"
                 },
                 {
                     "key": "3/12",
-                    "hex": "#005196"
+                    "hex": "#713a00"
                 },
                 {
                     "key": "9/12",
-                    "hex": "#00f4ff"
+                    "hex": "#ffd648"
                 },
                 {
                     "key": "1/100",
-                    "hex": "#4a9cc7"
+                    "hex": "#be8a37"
                 },
                 {
                     "key": "2/100",
-                    "hex": "#65b6e2"
+                    "hex": "#daa451"
                 },
                 {
                     "key": "3/100",
@@ -2975,90 +2294,452 @@
                 },
                 {
                     "key": "4/100",
-                    "hex": "#E5ECF3"
+                    "hex": "#F3EDE5"
                 },
                 {
                     "key": "5/100",
-                    "hex": "#E5ECF3"
+                    "hex": "#F3EDE5"
                 },
                 {
                     "key": "6/100",
-                    "hex": "#001927"
+                    "hex": "#271300"
                 }
             ],
             "dominate_color": {
-                "hex": "#769db5",
+                "hex": "#d09a45",
                 "hsv": [
-                    202.56953351010105,
-                    34.553697415674264,
-                    70.92394782421496
+                    36.81780699003736,
+                    67.01397350792641,
+                    81.5842502500682
                 ]
             },
-            "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/528/43697528/s_43697528.jpg",
-            "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/528/43697528/s_43697528.jpg"
+            "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/922/573922/s_573922.jpg",
+            "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/922/573922/s_573922.jpg"
         },
         "skuInfo": {
             "miniProgramId": "gh_78fd80800407",
-            "path": "/pages/product/product?pid=29376107&unionid=P-136100358m"
+            "path": "/pages/product/product?pid=21127043&unionid=P-136100358m"
         },
         "shortTimeRead": {
             "active": 0
         },
-        "AISummary": "这是一本深入探讨睡眠与人类健康关系的科普书籍。书中详细解析了睡眠的定义形成与大脑活动，指出睡眠不仅是身体休息的过程，同时也是大脑进行自我修复、巩固记忆和调节情绪的重要阶段。作者通过大量的科学研究，揭示了睡眠的普遍性和起源，以及睡眠剥夺对大脑的毁灭性影响。\n\n本书还探讨了梦境的差异性，指出梦境与我们的情绪、记忆紧密相关，并可能对我们的行为、学习和问题的解决产生重要影响。同时，作者还揭示了酒精与睡眠质量的关联，以及睡眠不足的全球影响，强调了充足的睡眠对于维护健康和提升生活质量的重要性。\n\n在介绍睡眠的重要性时，作者详细解析了个人的改变和组织的改变，并提出了改善睡眠的方法和建议。例如，通过减少科技对睡眠的干扰，增加自然睡眠的方式，以及实施新的激励政策，鼓励员工增加睡眠等。",
-        "finishedBookCount": 26,
+        "AISummary": "这是一本全面深入探讨领导力发展问题的著作。本书以领导梯队模型为核心，阐述了从一线员工到首席执行官，每个领导力发展阶段所需具备的领导技能、时间管理能力和工作理念。通过六个典型的管理层级，本书揭示了领导者成长过程中的关键挑战和应对策略。\n\n书中首先介绍了领导力发展的六个阶段概述，即从管理自我到管理他人，从管理他人到管理经理人员，从管理经理人员到管理职能部门，从管理职能部门到事业部总经理，从事业部总经理到集团高管，最后是从集团高管到首席执行官。每个阶段都需要领导者习得一种新的管理和领导方法，同时抛弃原有的方法。\n\n接着，本书深入探讨了小公司领导力发展面临的挑战，包括人才培养机制、领导者的角色定位、管理者的成熟度、领导力转型以及全球化背景下的公司管理。这些挑战要求小公司建立有效的人才培养机制，明确领导者的角色定位，提升管理者的成熟度，实现领导力转型，并适应全球化背景下的公司管理。\n\n此外，本书还详细阐述了事业部副总经理的角色与职责，以及事业部总经理面临的挑战。事业部副总经理需要具备战略思维，并学会重视所有部门。事业部总经理则需要处理复杂的问题，并改变他们的思维模式。\n\n在讨论集团高管的角色与挑战时，本书指出集团高管是公司的高层领导，他们的工作职责包括管理多个业务单元，推动公司层面的战略实施，以及培养事业部总经理等。\n\n在讨论首席执行官面临的挑战时，本书强调首席执行官需要平衡短期和长期利益，设定公司发展方向，管理全球化背景下的公司，听取董事会意见以及转型过程中的困境信号。",
+        "finishedBookCount": 27,
+        "canCancelReadstatus": 1,
+        "markedStatus": 1,
+        "readingTime": 0,
+        "recordReadingTime": 0,
+        "showSummary": 0,
+        "showDetail": 0,
+        "bookInfo": {
+            "bookId": "573922",
+            "title": "领导梯队：全面打造领导力驱动型公司",
+            "author": "查兰",
+            "translator": "徐中，林嵩，雷静",
+            "intro": "领导力发展的圣经，领导梯队模型已经在全球500强企业中普遍应用，是企业制定领导人才继任计划和培养各级领导人才的路径指南。能力与岗位的匹配，特别是各层级管理者的能力与岗位的匹配，是一个从未解决的老问题。员工的不能胜任很大程度上是由于“被提升”，责任更多在于人力部门，虽然员工本人未能主动寻求改进也是原因之一。本书通过对六个典型的管理层级最经常出现的问题，从领导技能、时间管理、工作理念三个方面进行了分析，提出了改进建议。企业要想获得成功，就必须在各个领导层级拥有出色的领导者。然而，企业内部培养领导人才的传统模式，常常缺乏系统性和完整性。本书有效地解决了上述问题，指导企业成功应对今天的商业环境带来的挑战。“领导梯队模型”源自通用电气等世界卓越企业的实践，对于企业制定领导人才继任计划和培养各级领导人才具有重要的指导作用。",
+            "cover": "https://wfqqreader-1252317822.image.myqcloud.com/cover/922/573922/s_573922.jpg",
+            "version": 1150758902,
+            "format": "epub",
+            "type": 0,
+            "soldout": 0,
+            "bookStatus": 1,
+            "payType": 1048577,
+            "finished": 1,
+            "free": 0,
+            "mcardDiscount": 0,
+            "ispub": 1,
+            "extra_type": 1,
+            "cpid": 4157477,
+            "publishTime": "2011-07-01 00:00:00",
+            "lastChapterIdx": 25,
+            "paperBook": {
+                "skuId": "10708646"
+            },
+            "centPrice": 2000,
+            "readingCount": 96,
+            "copyrightChapterUids": [
+                26
+            ],
+            "blockSaveImg": 0,
+            "language": "zh",
+            "hideUpdateTime": false,
+            "isEPUBComics": 0,
+            "selfProduceIncentive": false,
+            "webBookControl": 0
+        },
+        "readingCount": 96,
+        "阅读进度": 0.0,
+        "阅读状态": "想读",
+        "阅读时长": 0,
+        "阅读天数": null,
+        "评分": 811,
+        "时间": null,
+        "开始阅读时间": null,
+        "最后阅读时间": null,
+        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/165417294a-695c-4b71-bc83-50e007ab2d30.jpg",
+        "书名": "领导梯队：全面打造领导力驱动型公司",
+        "BookId": "573922",
+        "ISBN": "9787111349341",
+        "链接": "https://weread.qq.com/web/reader/95b3236058c1e295bea67b2",
+        "简介": "领导力发展的圣经，领导梯队模型已经在全球500强企业中普遍应用，是企业制定领导人才继任计划和培养各级领导人才的路径指南。能力与岗位的匹配，特别是各层级管理者的能力与岗位的匹配，是一个从未解决的老问题。员工的不能胜任很大程度上是由于“被提升”，责任更多在于人力部门，虽然员工本人未能主动寻求改进也是原因之一。本书通过对六个典型的管理层级最经常出现的问题，从领导技能、时间管理、工作理念三个方面进行了分析，提出了改进建议。企业要想获得成功，就必须在各个领导层级拥有出色的领导者。然而，企业内部培养领导人才的传统模式，常常缺乏系统性和完整性。本书有效地解决了上述问题，指导企业成功应对今天的商业环境带来的挑战。“领导梯队模型”源自通用电气等世界卓越企业的实践，对于企业制定领导人才继任计划和培养各级领导人才具有重要的指导作用。",
+        "作者": "查兰",
+        "分类": "经济理财-管理"
+    },
+    {
+        "bookId": "3300030955",
+        "title": "命运",
+        "author": "蔡崇达",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/11e6f826d4-5be8-4753-a129-6f648c048ca3.jpg",
+        "version": 1835708567,
+        "format": "epub",
+        "type": 0,
+        "price": 59.8,
+        "originalPrice": 0,
+        "soldout": 0,
+        "bookStatus": 1,
+        "payType": 1048577,
+        "intro": "《命运》是蔡崇达继《皮囊》之后，时隔八年潜心创作的长篇小说。\r\n《皮囊》里的那句“皮囊是拿来用的，不是拿来伺候的。”正是出自《命运》的主人公，阿太之口。《命运》以九十九岁的她一生的故事为主线，串联起福建闽南沿海小镇几代人的人生故事、命运选择与时代浮沉。\r\n全书以阿太的五段回忆，切入时间长河中人们不得不直面的一个个本质命题：\r\n层层浪：你们就此没有过去，只有将来——\r\n当原本稳固的活法被打碎，给人庇护的传统秩序被割裂，陷入巨大无常中的一个个单薄的人，要如何活下去？内心的安宁要放置在何处？\r\n海上土：灵感是浮游在海上的土——\r\n羁绊和意义是人心灵的压舱石，当生活的浪头打过来时不至于被掀翻。阿太生命中那些失去了压舱石的人，被命运一个个顺水推舟地带走了。而此时的她，尚只有十六岁。\r\n田里花：想结果的花，都早早低头——\r\n背负着“无子无孙无儿送终”的命运预言，她成了亲，有了婆家与丈夫，抱养了孩子。但见过命运的人会明白，命运的激流从未停止，人在其中并不知晓，哪一次告别，就是诀别。\r\n厕中佛：腐烂之地，神明之所——\r\n时代的巨浪之下，如何守住内心的清明与信仰？这世上容易的活法，就是为别人而活。而如果那人恰好也是为你而活，那么日子再苦，也过得像地瓜一样甜了。\r\n天顶孔：要么入土为安，要么向天开枪——\r\n阿太的故事走到了落幕时分，死亡成了她亲密的旧友。她终是生下了自己的命运，成为自己命运的母亲。这人间她来过，她永不再回。",
+        "centPrice": 5980,
+        "finished": 1,
+        "maxFreeChapter": 5,
+        "maxFreeInfo": {
+            "maxFreeChapterIdx": 5,
+            "maxFreeChapterUid": 15,
+            "maxFreeChapterRatio": 37
+        },
+        "free": 0,
+        "mcardDiscount": 0,
+        "ispub": 1,
+        "extra_type": 5,
+        "cpid": -3319053,
+        "publishTime": "2022-09-01 00:00:00",
+        "category": "精品小说-社会小说",
+        "categories": [
+            {
+                "categoryId": 100000,
+                "subCategoryId": 100001,
+                "categoryType": 0,
+                "title": "精品小说-社会小说"
+            }
+        ],
+        "hasLecture": 1,
+        "lastChapterIdx": 11,
+        "paperBook": {
+            "skuId": ""
+        },
+        "copyrightChapterUids": [
+            12
+        ],
+        "hasKeyPoint": false,
+        "blockSaveImg": 0,
+        "language": "zh-CN",
+        "hideUpdateTime": false,
+        "isEPUBComics": 0,
+        "webBookControl": 0,
+        "selfProduceIncentive": false,
+        "payingStatus": 2,
+        "chapterSize": 11,
+        "updateTime": 1714117742,
+        "onTime": 1664270751,
+        "lastChapterCreateTime": 1682270401,
+        "unitPrice": 0,
+        "marketType": 0,
+        "isbn": "9787533969608",
+        "publisher": "浙江文艺出版社/广州出版社",
+        "totalWords": 160550,
+        "bookSize": 1254353,
+        "shouldHideTTS": 0,
+        "recommended": 0,
+        "lectureRecommended": 0,
+        "follow": 0,
+        "secret": 0,
+        "offline": 0,
+        "lectureOffline": 0,
+        "finishReading": 1,
+        "hideReview": 0,
+        "hideFriendMark": 0,
+        "blacked": 0,
+        "isAutoPay": 0,
+        "availables": 0,
+        "paid": 0,
+        "isChapterPaid": 0,
+        "showLectureButton": 1,
+        "wxtts": 1,
+        "ratingCount": 30186,
+        "ratingDetail": {
+            "one": 489,
+            "two": 0,
+            "three": 957,
+            "four": 1,
+            "five": 28735,
+            "recent": 1244
+        },
+        "newRating": 940,
+        "newRatingCount": 28697,
+        "deepVRating": 947,
+        "newRatingDetail": {
+            "good": 27356,
+            "fair": 890,
+            "poor": 451,
+            "recent": 1203,
+            "deepV": 3755,
+            "myRating": "",
+            "title": "神作"
+        },
+        "ranklist": {
+            "seq": 25,
+            "categoryId": "all",
+            "categoryName": "总榜",
+            "storeSubType": 0,
+            "scheme": "weread://ranklist?categoryId=all&subtype=0&initialBookId=3300030955&seq=25&newList=1",
+            "ranklistCover": {
+                "tinycode": "https://rescdn.qqmail.com/weread/cover/ranklist.all.tinycode.8A3kIWv1MX.png",
+                "chart_title": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.all.chart_title.JPnYFfuPbm.png",
+                "chart_detail_title": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.all.chart_detail_title.sMh65ixe9l.png",
+                "chart_detail_title_dark": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.all.chart_detail_title_dark.2ky4HSJU3V.png",
+                "chart_share_title": "https://rescdn.qqmail.com/weread/cover/ranklist.all.chart_share_title.hqPEOLVffW.png",
+                "chart_share_logo": "https://rescdn.qqmail.com/weread/cover/ranklist.all.chart_share_logo.8DDUxHqsiv.png",
+                "chart_book_detial_icon": "https://rescdn.qqmail.com/weread/cover/ranklist.all.chart_book_detial_icon.6tpmPfmz6F.png",
+                "chart_tag": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.all.chart_tag.10XdZh6eUV.png",
+                "eink_chart_title": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.all.eink_chart_title.JVKRmQ5WCg.png",
+                "chart_title_main": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.all.chart_title_main.5y2PAdJQdr.png",
+                "chart_detail_title_main": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.all.chart_detail_title_main.VC1GJeqgCf.png",
+                "chart_detail_title_dark_main": "https://weread-1258476243.file.myqcloud.com/assets/ranklist.all.chart_detail_title_dark_main.r45lFTyRNo.png",
+                "chart_background_color_1": "#34A7FF",
+                "chart_background_color_2": "#39CFFF",
+                "chart_title_height": 96,
+                "chart_title_width": 471,
+                "desc": "微信读书用户最喜爱的出版书"
+            }
+        },
+        "copyrightInfo": {
+            "id": -3319053,
+            "name": "果麦文化",
+            "userVid": 290625916,
+            "role": 2,
+            "avatar": "https://res.weread.qq.com/wravatar/WV0012-~4eglA1PTB79JTRq~r0Wqa6/0",
+            "cpType": 0
+        },
+        "authorSeg": [
+            {
+                "words": "蔡崇达",
+                "highlight": 1,
+                "authorId": "566694"
+            }
+        ],
+        "coverBoxInfo": {
+            "blurhash": "KGRymHD*~qofoeof-;ofIU",
+            "colors": [
+                {
+                    "key": "6/4",
+                    "hex": "#95938d"
+                },
+                {
+                    "key": "4/4",
+                    "hex": "#62605a"
+                },
+                {
+                    "key": "3/4",
+                    "hex": "#494743"
+                },
+                {
+                    "key": "3/6",
+                    "hex": "#494743"
+                },
+                {
+                    "key": "3/8",
+                    "hex": "#494743"
+                },
+                {
+                    "key": "2/4",
+                    "hex": "#32312d"
+                },
+                {
+                    "key": "2/6",
+                    "hex": "#32312d"
+                },
+                {
+                    "key": "2/8",
+                    "hex": "#32312d"
+                },
+                {
+                    "key": "1/4",
+                    "hex": "#1e1c18"
+                },
+                {
+                    "key": "1/6",
+                    "hex": "#1e1c18"
+                },
+                {
+                    "key": "1/8",
+                    "hex": "#1e1c18"
+                },
+                {
+                    "key": "6/6",
+                    "hex": "#95938d"
+                },
+                {
+                    "key": "4/6",
+                    "hex": "#62605a"
+                },
+                {
+                    "key": "9/2",
+                    "hex": "#e5e3db"
+                },
+                {
+                    "key": "4/10",
+                    "hex": "#62605a"
+                },
+                {
+                    "key": "5/10",
+                    "hex": "#7b7974"
+                },
+                {
+                    "key": "5/4",
+                    "hex": "#7b7974"
+                },
+                {
+                    "key": "8/4",
+                    "hex": "#cac8c1"
+                },
+                {
+                    "key": "5/8",
+                    "hex": "#7b7974"
+                },
+                {
+                    "key": "6/8",
+                    "hex": "#95938d"
+                },
+                {
+                    "key": "8/6",
+                    "hex": "#cac8c1"
+                },
+                {
+                    "key": "7/8",
+                    "hex": "#afada7"
+                },
+                {
+                    "key": "3/12",
+                    "hex": "#494743"
+                },
+                {
+                    "key": "9/12",
+                    "hex": "#e5e3db"
+                },
+                {
+                    "key": "1/100",
+                    "hex": "#95938d"
+                },
+                {
+                    "key": "2/100",
+                    "hex": "#afada7"
+                },
+                {
+                    "key": "3/100",
+                    "hex": "#ffffff"
+                },
+                {
+                    "key": "4/100",
+                    "hex": "#F3F1E5"
+                },
+                {
+                    "key": "5/100",
+                    "hex": "#F3F1E5"
+                },
+                {
+                    "key": "6/100",
+                    "hex": "#271E00"
+                }
+            ],
+            "dominate_color": {
+                "hex": "#f4f2ea",
+                "hsv": [
+                    48.43745971657866,
+                    3.924718172580001,
+                    95.67654792548922
+                ]
+            },
+            "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/955/3300030955/s_3300030955.jpg",
+            "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/955/3300030955/s_3300030955.jpg"
+        },
+        "skuInfo": {
+            "miniProgramId": "gh_78fd80800407",
+            "path": "/pages/product/product?pid=29458883&unionid=P-123456m"
+        },
+        "shortTimeRead": {
+            "active": 0
+        },
+        "AISummary": "",
+        "finishedBookCount": 27,
+        "finishedBookIndex": 25,
+        "finishedDate": 1666622465,
         "readingBookCount": 108,
-        "readingBookIndex": 106,
-        "readingBookDate": 1719660949,
-        "readingProgress": 19,
-        "readingReviewId": "R_19208111_43697528",
+        "readingBookDate": 1666154344,
+        "readingProgress": 98,
+        "readingReviewId": "R_19208111_3300030955",
         "canCancelReadstatus": 0,
-        "markedStatus": 2,
-        "readingTime": 7703,
-        "totalReadDay": 4,
+        "markedStatus": 4,
+        "readingTime": 14182,
+        "totalReadDay": 7,
         "recordReadingTime": 0,
         "continueReadDays": 3,
-        "continueBeginDate": 1720454400,
-        "continueEndDate": 1720627200,
+        "continueBeginDate": 1666108800,
+        "continueEndDate": 1666281600,
         "showSummary": 1,
         "showDetail": 1,
         "readDetail": {
-            "totalReadingTime": 7703,
-            "totalReadDay": 4,
+            "totalReadingTime": 14182,
+            "totalReadDay": 7,
             "continueReadDays": 3,
-            "continueBeginDate": 1720454400,
-            "continueEndDate": 1720627200,
-            "beginReadingDate": 1719660949,
-            "lastReadingDate": 1720627200,
-            "longestReadingDate": 1720627200,
-            "avgReadingTime": 1925,
-            "longestReadingTime": 3887,
+            "continueBeginDate": 1666108800,
+            "continueEndDate": 1666281600,
+            "beginReadingDate": 1666154344,
+            "lastReadingDate": 1700323200,
+            "longestReadingDate": 1666540800,
+            "avgReadingTime": 2026,
+            "longestReadingTime": 6266,
             "data": [
                 {
-                    "readDate": 1719590400,
-                    "readTime": 155
+                    "readDate": 1666108800,
+                    "readTime": 3074
                 },
                 {
-                    "readDate": 1720454400,
-                    "readTime": 86
+                    "readDate": 1666195200,
+                    "readTime": 114
                 },
                 {
-                    "readDate": 1720540800,
-                    "readTime": 3574
+                    "readDate": 1666281600,
+                    "readTime": 495
                 },
                 {
-                    "readDate": 1720627200,
-                    "readTime": 3887
+                    "readDate": 1666454400,
+                    "readTime": 4120
+                },
+                {
+                    "readDate": 1666540800,
+                    "readTime": 6266
+                },
+                {
+                    "readDate": 1666886400,
+                    "readTime": 65
+                },
+                {
+                    "readDate": 1700323200,
+                    "readTime": 163
                 }
             ]
         },
+        "noteCount": 18,
+        "reviewCount": 0,
+        "underlineCount": 18,
+        "markCount": 0,
         "bookInfo": {
-            "bookId": "43697528",
-            "title": "我们为什么要睡觉？",
-            "author": "马修·沃克",
-            "translator": "田盈春",
-            "intro": "你认为自己最近睡眠充足吗？你还记得上一次自然醒后神清气爽的感觉吗？不用怀疑，我们正在进入一个失眠已经成为流行病的时代。作为一名杰出的神经科学家，沃克对生物的睡眠行为充满好奇，这促使他成了睡眠研究方面的专家。本书中，他总结了人类有史以来的睡眠研究成果，以及前沿的科学突破，告诉我们睡眠的运行机制、睡眠不足的坏处、睡眠与做梦的有益功能，以及睡眠对专业人士个人能力提升的惊人影响。我们的身体健康、心理健康、情商智商、记忆力、运动力、学习力、生产力、创造力、吸引力，甚至食欲，这些让日间生活丰富多彩的能力，原来都与夜间那场睡眠有着密不可分的关系。现在，你知道我们为什么需要充足的睡眠了吧。打开这本书，看平凡的睡眠如何带来非凡的生命能量，顶尖科学对于睡眠的所有了解及如何睡好觉的诀窍都将在这部关于睡眠的“百科全书”中逐一揭晓。",
-            "cover": "https://cdn.weread.qq.com/weread/cover/98/YueWen_43697528/s_YueWen_43697528.jpg",
-            "version": 1475565887,
+            "bookId": "3300030955",
+            "title": "命运",
+            "author": "蔡崇达",
+            "intro": "《命运》是蔡崇达继《皮囊》之后，时隔八年潜心创作的长篇小说。\r\n《皮囊》里的那句“皮囊是拿来用的，不是拿来伺候的。”正是出自《命运》的主人公，阿太之口。《命运》以九十九岁的她一生的故事为主线，串联起福建闽南沿海小镇几代人的人生故事、命运选择与时代浮沉。\r\n全书以阿太的五段回忆，切入时间长河中人们不得不直面的一个个本质命题：\r\n层层浪：你们就此没有过去，只有将来——\r\n当原本稳固的活法被打碎，给人庇护的传统秩序被割裂，陷入巨大无常中的一个个单薄的人，要如何活下去？内心的安宁要放置在何处？\r\n海上土：灵感是浮游在海上的土——\r\n羁绊和意义是人心灵的压舱石，当生活的浪头打过来时不至于被掀翻。阿太生命中那些失去了压舱石的人，被命运一个个顺水推舟地带走了。而此时的她，尚只有十六岁。\r\n田里花：想结果的花，都早早低头——\r\n背负着“无子无孙无儿送终”的命运预言，她成了亲，有了婆家与丈夫，抱养了孩子。但见过命运的人会明白，命运的激流从未停止，人在其中并不知晓，哪一次告别，就是诀别。\r\n厕中佛：腐烂之地，神明之所——\r\n时代的巨浪之下，如何守住内心的清明与信仰？这世上容易的活法，就是为别人而活。而如果那人恰好也是为你而活，那么日子再苦，也过得像地瓜一样甜了。\r\n天顶孔：要么入土为安，要么向天开枪——\r\n阿太的故事走到了落幕时分，死亡成了她亲密的旧友。她终是生下了自己的命运，成为自己命运的母亲。这人间她来过，她永不再回。",
+            "cover": "https://cdn.weread.qq.com/weread/cover/46/cpPlatform_tEnsXcTvcuE69ZuvviMknD/s_cpPlatform_tEnsXcTvcuE69ZuvviMknD.jpg",
+            "version": 1835708567,
             "format": "epub",
             "type": 0,
             "soldout": 0,
@@ -3069,16 +2750,427 @@
             "mcardDiscount": 0,
             "ispub": 1,
             "extra_type": 5,
-            "cpid": 9555120,
-            "publishTime": "2021-03-01 00:00:00",
-            "lastChapterIdx": 30,
+            "cpid": -3319053,
+            "publishTime": "2022-09-01 00:00:00",
+            "lastChapterIdx": 11,
             "paperBook": {
-                "skuId": "12799689"
+                "skuId": ""
             },
-            "centPrice": 3600,
-            "readingCount": 746,
+            "centPrice": 5980,
+            "readingCount": 1873,
             "copyrightChapterUids": [
-                31
+                12
+            ],
+            "blockSaveImg": 0,
+            "language": "zh-CN",
+            "hideUpdateTime": false,
+            "isEPUBComics": 0,
+            "selfProduceIncentive": false,
+            "webBookControl": 0
+        },
+        "totalReadingTime": 14182,
+        "beginReadingDate": 1666154344,
+        "lastReadingDate": 1700323200,
+        "longestReadingDate": 1666540800,
+        "avgReadingTime": 2026,
+        "longestReadingTime": 6266,
+        "data": [
+            {
+                "readDate": 1666108800,
+                "readTime": 3074
+            },
+            {
+                "readDate": 1666195200,
+                "readTime": 114
+            },
+            {
+                "readDate": 1666281600,
+                "readTime": 495
+            },
+            {
+                "readDate": 1666454400,
+                "readTime": 4120
+            },
+            {
+                "readDate": 1666540800,
+                "readTime": 6266
+            },
+            {
+                "readDate": 1666886400,
+                "readTime": 65
+            },
+            {
+                "readDate": 1700323200,
+                "readTime": 163
+            }
+        ],
+        "readingCount": 1873,
+        "阅读进度": 1.0,
+        "阅读状态": "已读",
+        "阅读时长": 14182,
+        "阅读天数": 7,
+        "评分": 940,
+        "我的评分": "未评分",
+        "时间": 1666622465,
+        "开始阅读时间": 1666154344,
+        "最后阅读时间": 1700323200,
+        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/11e6f826d4-5be8-4753-a129-6f648c048ca3.jpg",
+        "书名": "命运",
+        "BookId": "3300030955",
+        "ISBN": "9787533969608",
+        "链接": "https://weread.qq.com/web/reader/0e932260813ab7297g01583b",
+        "简介": "《命运》是蔡崇达继《皮囊》之后，时隔八年潜心创作的长篇小说。\r\n《皮囊》里的那句“皮囊是拿来用的，不是拿来伺候的。”正是出自《命运》的主人公，阿太之口。《命运》以九十九岁的她一生的故事为主线，串联起福建闽南沿海小镇几代人的人生故事、命运选择与时代浮沉。\r\n全书以阿太的五段回忆，切入时间长河中人们不得不直面的一个个本质命题：\r\n层层浪：你们就此没有过去，只有将来——\r\n当原本稳固的活法被打碎，给人庇护的传统秩序被割裂，陷入巨大无常中的一个个单薄的人，要如何活下去？内心的安宁要放置在何处？\r\n海上土：灵感是浮游在海上的土——\r\n羁绊和意义是人心灵的压舱石，当生活的浪头打过来时不至于被掀翻。阿太生命中那些失去了压舱石的人，被命运一个个顺水推舟地带走了。而此时的她，尚只有十六岁。\r\n田里花：想结果的花，都早早低头——\r\n背负着“无子无孙无儿送终”的命运预言，她成了亲，有了婆家与丈夫，抱养了孩子。但见过命运的人会明白，命运的激流从未停止，人在其中并不知晓，哪一次告别，就是诀别。\r\n厕中佛：腐烂之地，神明之所——\r\n时代的巨浪之下，如何守住内心的清明与信仰？这世上容易的活法，就是为别人而活。而如果那人恰好也是为你而活，那么日子再苦，也过得像地瓜一样甜了。\r\n天顶孔：要么入土为安，要么向天开枪——\r\n阿太的故事走到了落幕时分，死亡成了她亲密的旧友。她终是生下了自己的命运，成为自己命运的母亲。这人间她来过，她永不再回。",
+        "作者": "蔡崇达",
+        "分类": "精品小说-社会小说"
+    },
+    {
+        "bookId": "3300086356",
+        "title": "躲在蚊子后面的大象",
+        "author": "[德]恩斯特弗里德·哈尼希   [德]爱娃·温德勒",
+        "cover": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/f25dbd00-f5c3-4bae-83e3-df8b93594f82.jpg",
+        "version": 1032603185,
+        "format": "epub",
+        "type": 0,
+        "price": 24.9,
+        "originalPrice": 0,
+        "soldout": 0,
+        "bookStatus": 1,
+        "payType": 1048577,
+        "intro": "“没有人会无缘无故陷入情绪困扰，在这本书中，我将结合多年来的心理咨询经验，教你如何走出困境，帮助你找到心理平衡。亲爱的读者，希望这些内容能对你有所帮助，为你的生活带来正向的改变。”——本书作者 恩斯特弗利德·哈尼希\n　看起来像「蚊子」一样小的事，背后的情绪却有如「大象」一样大。阅读这本书就像是亲身经历了一场疗愈之旅，我们得以从情绪中找到勇气，找到突破僵局的方法。每个人都有属于自己的蚊子和大象，而经过这场疗愈之旅，大象将会走出蚊子的背后，找回属于自己的平静。",
+        "centPrice": 2490,
+        "finished": 1,
+        "maxFreeChapter": 7,
+        "maxFreeInfo": {
+            "maxFreeChapterIdx": 7,
+            "maxFreeChapterUid": 7,
+            "maxFreeChapterRatio": 78
+        },
+        "free": 0,
+        "mcardDiscount": 0,
+        "ispub": 1,
+        "extra_type": 5,
+        "cpid": -60041,
+        "publishTime": "2024-01-11 00:00:00",
+        "category": "心理-心理学应用",
+        "categories": [
+            {
+                "categoryId": 800000,
+                "subCategoryId": 800005,
+                "categoryType": 0,
+                "title": "心理-心理学应用"
+            }
+        ],
+        "hasLecture": 1,
+        "lastChapterIdx": 28,
+        "paperBook": {
+            "skuId": ""
+        },
+        "copyrightChapterUids": [
+            2
+        ],
+        "hasKeyPoint": true,
+        "blockSaveImg": 0,
+        "language": "zh",
+        "hideUpdateTime": false,
+        "isEPUBComics": 0,
+        "webBookControl": 0,
+        "selfProduceIncentive": false,
+        "payingStatus": 2,
+        "chapterSize": 28,
+        "updateTime": 1707123588,
+        "onTime": 1709222400,
+        "lastChapterCreateTime": 1707120447,
+        "unitPrice": 0,
+        "marketType": 0,
+        "isbn": "9787516837375",
+        "publisher": "台海出版公司",
+        "totalWords": 73663,
+        "bookSize": 285778,
+        "shouldHideTTS": 0,
+        "recommended": 0,
+        "lectureRecommended": 0,
+        "follow": 0,
+        "secret": 0,
+        "offline": 0,
+        "lectureOffline": 0,
+        "finishReading": 0,
+        "hideReview": 0,
+        "hideFriendMark": 0,
+        "blacked": 0,
+        "isAutoPay": 0,
+        "availables": 0,
+        "paid": 0,
+        "isChapterPaid": 0,
+        "showLectureButton": 1,
+        "wxtts": 1,
+        "ratingCount": 1455,
+        "ratingDetail": {
+            "one": 129,
+            "two": 0,
+            "three": 459,
+            "four": 1,
+            "five": 866,
+            "recent": 761
+        },
+        "newRating": 751,
+        "newRatingCount": 1278,
+        "deepVRating": 547,
+        "newRatingDetail": {
+            "good": 771,
+            "fair": 418,
+            "poor": 89,
+            "recent": 696,
+            "deepV": 358,
+            "myRating": "",
+            "title": "值得一读"
+        },
+        "ranklist": {},
+        "copyrightInfo": {
+            "id": -60041,
+            "name": "磨铁数盟",
+            "userVid": 351681843,
+            "role": 2,
+            "avatar": "https://res.weread.qq.com/wravatar/WV0017-cUI0kK2KX6ntOCxNQl7Jnb9/0",
+            "cpType": 0
+        },
+        "authorSeg": [
+            {
+                "words": "[德]",
+                "highlight": 0
+            },
+            {
+                "words": "恩斯特弗里德·哈尼希",
+                "highlight": 1,
+                "authorId": "2351018"
+            },
+            {
+                "words": "   [德]",
+                "highlight": 0
+            },
+            {
+                "words": "爱娃·温德勒",
+                "highlight": 1,
+                "authorId": "2351019"
+            }
+        ],
+        "coverBoxInfo": {
+            "blurhash": "KIS6MZS8_4x_sjo#tSbdMv",
+            "colors": [
+                {
+                    "key": "6/4",
+                    "hex": "#99928d"
+                },
+                {
+                    "key": "4/4",
+                    "hex": "#655f5a"
+                },
+                {
+                    "key": "3/4",
+                    "hex": "#4c4642"
+                },
+                {
+                    "key": "3/6",
+                    "hex": "#4c4642"
+                },
+                {
+                    "key": "3/8",
+                    "hex": "#4c4642"
+                },
+                {
+                    "key": "2/4",
+                    "hex": "#35302c"
+                },
+                {
+                    "key": "2/6",
+                    "hex": "#35302c"
+                },
+                {
+                    "key": "2/8",
+                    "hex": "#35302c"
+                },
+                {
+                    "key": "1/4",
+                    "hex": "#211b18"
+                },
+                {
+                    "key": "1/6",
+                    "hex": "#211b18"
+                },
+                {
+                    "key": "1/8",
+                    "hex": "#211b18"
+                },
+                {
+                    "key": "6/6",
+                    "hex": "#99928d"
+                },
+                {
+                    "key": "4/6",
+                    "hex": "#655f5a"
+                },
+                {
+                    "key": "9/2",
+                    "hex": "#e8e2db"
+                },
+                {
+                    "key": "4/10",
+                    "hex": "#655f5a"
+                },
+                {
+                    "key": "5/10",
+                    "hex": "#7f7873"
+                },
+                {
+                    "key": "5/4",
+                    "hex": "#7f7873"
+                },
+                {
+                    "key": "8/4",
+                    "hex": "#cdc7c1"
+                },
+                {
+                    "key": "5/8",
+                    "hex": "#7f7873"
+                },
+                {
+                    "key": "6/8",
+                    "hex": "#99928d"
+                },
+                {
+                    "key": "8/6",
+                    "hex": "#cdc7c1"
+                },
+                {
+                    "key": "7/8",
+                    "hex": "#b3aca7"
+                },
+                {
+                    "key": "3/12",
+                    "hex": "#4c4642"
+                },
+                {
+                    "key": "9/12",
+                    "hex": "#e8e2db"
+                },
+                {
+                    "key": "1/100",
+                    "hex": "#99928d"
+                },
+                {
+                    "key": "2/100",
+                    "hex": "#b3aca7"
+                },
+                {
+                    "key": "3/100",
+                    "hex": "#ffffff"
+                },
+                {
+                    "key": "4/100",
+                    "hex": "#F3EDE5"
+                },
+                {
+                    "key": "5/100",
+                    "hex": "#F3EDE5"
+                },
+                {
+                    "key": "6/100",
+                    "hex": "#271300"
+                }
+            ],
+            "dominate_color": {
+                "hex": "#cac4be",
+                "hsv": [
+                    31.21811759491868,
+                    5.935374149659864,
+                    79.02515589569161
+                ]
+            },
+            "custom_cover": "https://weread-1258476243.file.myqcloud.com/bookalphacover/356/3300086356/s_3300086356.jpg",
+            "custom_rec_cover": "https://weread-1258476243.file.myqcloud.com/bookreccover/356/3300086356/s_3300086356.jpg"
+        },
+        "shortTimeRead": {
+            "active": 0
+        },
+        "AISummary": "这是一本深入探讨情绪产生的原因和深层含义，并揭示人们面对各种情况时，为何会产生不同的情绪反应的书籍。作者恩斯特弗里德·哈尼希通过生动的实例向我们展示了该如何应对突然爆发的情绪，并让自己重新恢复内心的平静。\n\n这本书还深入探讨了日常生活中的压力事件，揭示了这些事件背后的深层心理因素。例如，彼得可能觉得他的袜子问题只是小事一桩，不值得大惊小怪。然而，对于安娜来说，这可能意味着她需要更多的关注和尊重。这种个人化处理模式，就像是把小事看成了大象，从而放大了问题的严重性。\n\n此外，这本书还详细解析了需求受挫与大象的形成，主要讲述的是人们在生活中遇到各种挫折和困难时，如何形成一种自我保护的心理机制，这种机制通常表现为一种固定的思维模式或行为习惯，就像一头大象一样，虽然体积庞大，但却常常被我们忽视。\n\n本书还进一步阐述了基本需求的分类和满足程度，以及核心需求与生活质量的关系。这些内容可以帮助我们更好地理解自己的需求和需求之间的关系，从而更好地调整自己的生活方向。\n\n在探讨需求满足度与自尊的关系时，作者指出，当人们的基本需求得到满足时，他们的自尊会得到提升，从而使他们能够更好地应对生活中的挑战，建立满意的人际关系，并实现个人潜力的最大化。\n\n本书还深入探讨了自我关注与生活质量的关系，以及需求四方形的应用与改善。这些内容可以帮助我们更好地理解自己的需求和需求之间的关系，从而更好地调整自己的生活方向。",
+        "finishedBookCount": 27,
+        "readingBookCount": 108,
+        "readingBookIndex": 107,
+        "readingBookDate": 1721402215,
+        "readingProgress": 24,
+        "readingReviewId": "R_19208111_3300086356",
+        "canCancelReadstatus": 0,
+        "markedStatus": 2,
+        "readingTime": 2751,
+        "totalReadDay": 4,
+        "recordReadingTime": 0,
+        "deepestNightReadTime": 1721581183,
+        "continueReadDays": 4,
+        "continueBeginDate": 1721318400,
+        "continueEndDate": 1721577600,
+        "showSummary": 1,
+        "showDetail": 1,
+        "readDetail": {
+            "totalReadingTime": 2751,
+            "totalReadDay": 4,
+            "continueReadDays": 4,
+            "continueBeginDate": 1721318400,
+            "continueEndDate": 1721577600,
+            "deepestNightReadDate": 1721581183,
+            "beginReadingDate": 1721402215,
+            "lastReadingDate": 1721577600,
+            "longestReadingDate": 1721318400,
+            "avgReadingTime": 687,
+            "longestReadingTime": 1135,
+            "data": [
+                {
+                    "readDate": 1721318400,
+                    "readTime": 1135
+                },
+                {
+                    "readDate": 1721404800,
+                    "readTime": 282
+                },
+                {
+                    "readDate": 1721491200,
+                    "readTime": 240
+                },
+                {
+                    "readDate": 1721577600,
+                    "readTime": 1092
+                }
+            ]
+        },
+        "noteCount": 10,
+        "reviewCount": 0,
+        "underlineCount": 10,
+        "markCount": 0,
+        "bookInfo": {
+            "bookId": "3300086356",
+            "title": "躲在蚊子后面的大象",
+            "author": "[德]恩斯特弗里德·哈尼希   [德]爱娃·温德勒",
+            "intro": "“没有人会无缘无故陷入情绪困扰，在这本书中，我将结合多年来的心理咨询经验，教你如何走出困境，帮助你找到心理平衡。亲爱的读者，希望这些内容能对你有所帮助，为你的生活带来正向的改变。”——本书作者 恩斯特弗利德·哈尼希\n　看起来像「蚊子」一样小的事，背后的情绪却有如「大象」一样大。阅读这本书就像是亲身经历了一场疗愈之旅，我们得以从情绪中找到勇气，找到突破僵局的方法。每个人都有属于自己的蚊子和大象，而经过这场疗愈之旅，大象将会走出蚊子的背后，找回属于自己的平静。",
+            "cover": "https://cdn.weread.qq.com/weread/cover/2/cpplatform_dcnmsj225vbjrgvdrd9rqp/s_cpplatform_dcnmsj225vbjrgvdrd9rqp1707120440.jpg",
+            "version": 1032603185,
+            "format": "epub",
+            "type": 0,
+            "soldout": 0,
+            "bookStatus": 1,
+            "payType": 1048577,
+            "finished": 1,
+            "free": 0,
+            "mcardDiscount": 0,
+            "ispub": 1,
+            "extra_type": 5,
+            "cpid": -60041,
+            "publishTime": "2024-01-11 00:00:00",
+            "lastChapterIdx": 28,
+            "paperBook": {
+                "skuId": ""
+            },
+            "centPrice": 2490,
+            "readingCount": 3274,
+            "copyrightChapterUids": [
+                2
             ],
             "blockSaveImg": 0,
             "language": "zh",
@@ -3087,46 +3179,47 @@
             "selfProduceIncentive": false,
             "webBookControl": 0
         },
-        "totalReadingTime": 7703,
-        "beginReadingDate": 1719660949,
-        "lastReadingDate": 1720627200,
-        "longestReadingDate": 1720627200,
-        "avgReadingTime": 1925,
-        "longestReadingTime": 3887,
+        "totalReadingTime": 2751,
+        "deepestNightReadDate": 1721581183,
+        "beginReadingDate": 1721402215,
+        "lastReadingDate": 1721577600,
+        "longestReadingDate": 1721318400,
+        "avgReadingTime": 687,
+        "longestReadingTime": 1135,
         "data": [
             {
-                "readDate": 1719590400,
-                "readTime": 155
+                "readDate": 1721318400,
+                "readTime": 1135
             },
             {
-                "readDate": 1720454400,
-                "readTime": 86
+                "readDate": 1721404800,
+                "readTime": 282
             },
             {
-                "readDate": 1720540800,
-                "readTime": 3574
+                "readDate": 1721491200,
+                "readTime": 240
             },
             {
-                "readDate": 1720627200,
-                "readTime": 3887
+                "readDate": 1721577600,
+                "readTime": 1092
             }
         ],
-        "readingCount": 746,
-        "阅读进度": 0.19,
+        "readingCount": 3274,
+        "阅读进度": 0.24,
         "阅读状态": "在读",
-        "阅读时长": 7703,
+        "阅读时长": 2751,
         "阅读天数": 4,
-        "评分": 866,
-        "时间": 1720627200,
-        "开始阅读时间": 1719660949,
-        "最后阅读时间": 1720627200,
-        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/157efed796-bf34-49b9-b516-5997155f0097.jpg",
-        "书名": "我们为什么要睡觉？",
-        "BookId": "43697528",
-        "ISBN": "9787559648600",
-        "链接": "https://weread.qq.com/web/reader/121323f0729ac578121ce6f",
-        "简介": "你认为自己最近睡眠充足吗？你还记得上一次自然醒后神清气爽的感觉吗？不用怀疑，我们正在进入一个失眠已经成为流行病的时代。作为一名杰出的神经科学家，沃克对生物的睡眠行为充满好奇，这促使他成了睡眠研究方面的专家。本书中，他总结了人类有史以来的睡眠研究成果，以及前沿的科学突破，告诉我们睡眠的运行机制、睡眠不足的坏处、睡眠与做梦的有益功能，以及睡眠对专业人士个人能力提升的惊人影响。我们的身体健康、心理健康、情商智商、记忆力、运动力、学习力、生产力、创造力、吸引力，甚至食欲，这些让日间生活丰富多彩的能力，原来都与夜间那场睡眠有着密不可分的关系。现在，你知道我们为什么需要充足的睡眠了吧。打开这本书，看平凡的睡眠如何带来非凡的生命能量，顶尖科学对于睡眠的所有了解及如何睡好觉的诀窍都将在这部关于睡眠的“百科全书”中逐一揭晓。",
-        "作者": "马修·沃克",
-        "分类": "科学技术-科学科普"
+        "评分": 751,
+        "时间": 1721577600,
+        "开始阅读时间": 1721402215,
+        "最后阅读时间": 1721577600,
+        "封面": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/f25dbd00-f5c3-4bae-83e3-df8b93594f82.jpg",
+        "书名": "躲在蚊子后面的大象",
+        "BookId": "3300086356",
+        "ISBN": "9787516837375",
+        "链接": "https://weread.qq.com/web/reader/bfc32800813ab883bg0165f3",
+        "简介": "“没有人会无缘无故陷入情绪困扰，在这本书中，我将结合多年来的心理咨询经验，教你如何走出困境，帮助你找到心理平衡。亲爱的读者，希望这些内容能对你有所帮助，为你的生活带来正向的改变。”——本书作者 恩斯特弗利德·哈尼希\n　看起来像「蚊子」一样小的事，背后的情绪却有如「大象」一样大。阅读这本书就像是亲身经历了一场疗愈之旅，我们得以从情绪中找到勇气，找到突破僵局的方法。每个人都有属于自己的蚊子和大象，而经过这场疗愈之旅，大象将会走出蚊子的背后，找回属于自己的平静。",
+        "作者": "[德]恩斯特弗里德·哈尼希   [德]爱娃·温德勒",
+        "分类": "心理-心理学应用"
     }
 ]
