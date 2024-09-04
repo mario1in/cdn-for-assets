@@ -1,10 +1,31 @@
 [
     {
+        "id": 2619125556,
+        "title": "才二十三",
+        "author": "方大同",
+        "pic": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/2619125556_109951169920004683.jpg",
+        "url": "https://music.163.com/song?id=2619125556"
+    },
+    {
         "id": 1413585838,
         "title": "与我无关",
         "author": "阿冗",
         "pic": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/1413585838_109951164597332931.jpg",
         "url": "https://music.163.com/song?id=1413585838"
+    },
+    {
+        "id": 412902075,
+        "title": "我也不想这样",
+        "author": "徐佳莹",
+        "pic": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/412902075_109951168110995497.jpg",
+        "url": "https://music.163.com/song?id=412902075"
+    },
+    {
+        "id": 29850685,
+        "title": "生生",
+        "author": "林俊杰",
+        "pic": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/29850685_109951166919095160.jpg",
+        "url": "https://music.163.com/song?id=29850685"
     },
     {
         "id": 2619148683,
@@ -14,59 +35,38 @@
         "url": "https://music.163.com/song?id=2619148683"
     },
     {
-        "id": 2602620760,
-        "title": "嚣张 (Live版)",
-        "author": "容祖儿",
-        "pic": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/2602620760_109951169726494529.jpg",
-        "url": "https://music.163.com/song?id=2602620760"
+        "id": 25648006,
+        "title": "麦恩莉",
+        "author": "方大同",
+        "pic": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/25648006_109951168870428045.jpg",
+        "url": "https://music.163.com/song?id=25648006"
     },
     {
-        "id": 165372,
-        "title": "他的爱",
+        "id": 2100329027,
+        "title": "冷战",
+        "author": "TizzyT",
+        "pic": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/2100329027_109951169058769275.jpg",
+        "url": "https://music.163.com/song?id=2100329027"
+    },
+    {
+        "id": 209046,
+        "title": "下一次爱情来的时候",
+        "author": "蔡健雅",
+        "pic": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/209046_109951168637068609.jpg",
+        "url": "https://music.163.com/song?id=209046"
+    },
+    {
+        "id": 1978621666,
+        "title": "空空",
+        "author": "王加一",
+        "pic": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/1978621666_109951169397883741.jpg",
+        "url": "https://music.163.com/song?id=1978621666"
+    },
+    {
+        "id": 2124385868,
+        "title": "如果爱忘了 (live)",
         "author": "汪苏泷",
-        "pic": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/165372_109951165687445155.jpg",
-        "url": "https://music.163.com/song?id=165372"
-    },
-    {
-        "id": 1398283847,
-        "title": "我只能离开",
-        "author": "颜人中",
-        "pic": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/1398283847_109951164440649436.jpg",
-        "url": "https://music.163.com/song?id=1398283847"
-    },
-    {
-        "id": 864410941,
-        "title": "Take You Home",
-        "author": "slenderbodies",
-        "pic": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/864410941_109951163679701409.jpg",
-        "url": "https://music.163.com/song?id=864410941"
-    },
-    {
-        "id": 66285,
-        "title": "葡萄成熟时",
-        "author": "陈奕迅",
-        "pic": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/66285_109951166497586944.jpg",
-        "url": "https://music.163.com/song?id=66285"
-    },
-    {
-        "id": 574935156,
-        "title": "Kream",
-        "author": "Iggy Azalea",
-        "pic": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/574935156_109951163393014667.jpg",
-        "url": "https://music.163.com/song?id=574935156"
-    },
-    {
-        "id": 519935202,
-        "title": "float",
-        "author": "sturling.",
-        "pic": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/519935202_109951163067411501.jpg",
-        "url": "https://music.163.com/song?id=519935202"
-    },
-    {
-        "id": 501491063,
-        "title": "Lust For Life (The Avener Rework)",
-        "author": "Lana Del Rey",
-        "pic": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/501491063_17761510835527403.jpg",
-        "url": "https://music.163.com/song?id=501491063"
+        "pic": "https://cdn.jsdelivr.net/gh/mario1in/cdn-for-assets@main/png/2124385868_109951169721390560.jpg",
+        "url": "https://music.163.com/song?id=2124385868"
     }
 ]
